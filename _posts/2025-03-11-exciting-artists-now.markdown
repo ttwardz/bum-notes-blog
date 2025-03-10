@@ -1,6 +1,7 @@
 ---
 title: 5 Exciting Artists Right Now
 description: Who's stuck in my head, changing music, and saving rock and roll.
+author: Tommy Twardzik
 tags: music
 date: 2024-12-17 12:00
 published: false

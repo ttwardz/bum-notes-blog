@@ -2,6 +2,7 @@
 layout: post
 title: A Shortcut That Generates Inline CSS for Gradient Text Colors
 description: Generate the inline CSS for a gradient text color that you can use in any text editor that supports it.
+author: Tommy Twardzik
 tags: shortcuts, writing, programming
 date: 2024-02-27 12:00
 ---
