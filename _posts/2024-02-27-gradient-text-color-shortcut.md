@@ -7,7 +7,6 @@ tags: shortcuts, writing, programming
 date: 2024-02-27 12:00
 ---
 
-# A Shortcut That Generates Inline CSS for Gradient Text Colors
 
 Sometimes, you want text to stand out more than the standard bold or even highlight styles. Make it fun with gradients!
 
