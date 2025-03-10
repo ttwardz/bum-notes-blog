@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Heavy Rotation"
+author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
 date: 2023-12-13 00:30:34 -0400
 categories: music
