@@ -4,15 +4,37 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I've been creating engaging, tailored digital content for the websites and social media accounts of a wide variety of organizations since 2016.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My writing and SEO work has increased clients’ organic sessions by as much as ten times and **improved conversion rates by over 300%**. I've also worked with Amazon sellers to **increase revenue by as much as 30%** through keyword-optimized product pages.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Why Me
+
+- Your website, blog, seller page or social media account needs written content.
+- Blog posts, how-to guides, product comparisons.
+- Amazon seller pages and product listings need keyword optimization.
+
+Whether it's an article, ad copy, email newsletter, slideshow, ebook, poem, or something else—it takes professional writing to properly showcase your products or services.
+
+I've produced hundreds of articles that cover lifestyle, pop culture, finance and travel. I've created content for pet food companies and international commodity exchanges. I've written tens of thousands of words specifically about bugs. Yep.
+
+Whatever content you need written, whatever story you need told, whatever product or service you need marketed, **I'm your writer**.
 
 
-[jekyll-organization]: https://github.com/jekyll
+## My Experience
+### Writer and Editor
+Elite Editing Agency (2021–Present)
+
+### Editor and Staff Writer
+MUO (formerly MakeUseOf) (2021–2024)
+
+### SEO Copywriter
+Direct Agents
+
+### Former Clients
+- Cockroach Facts  
+- A Quarter Richer  
+- Popdust, Paypath, Journiest, Liberty Project and others
+
+### Education
+New York University
