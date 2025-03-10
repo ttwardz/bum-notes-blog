@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-A blog about music, art, productivity, and projects. 
+A blog about music, art, productivity, work, and creative projects.
