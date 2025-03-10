@@ -10,7 +10,7 @@ date: 2019-12-09 12:00
 
 I built this website using words. I set a goal: make my site readable to the people who are curious enough to inspect its source code. I think I succeeded. But things have not turned out to be as simple as I'd hoped.
 
-![HTML source code screenshot.](/assets/html-source-code-screenshot.JPG)
+![HTML source code screenshot.](/assets/images/html-source-code-screenshot.JPG)
 
 ## The Complicated Web
 

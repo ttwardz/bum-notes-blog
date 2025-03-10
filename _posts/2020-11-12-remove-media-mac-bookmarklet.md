@@ -6,7 +6,7 @@ date: 2020-11-12 12:00
 
 <!-- description: Use a little JavaScript to create a simple bookmarklet that removes unsightly or distracting media from webpages. -->
 
-![A silver MacBook opening its lid with ambient purple light.](/assets/silver-macbook-opening-lid.jpg)
+![A silver MacBook opening its lid with ambient purple light.](/assets/images/silver-macbook-opening-lid.jpg)
 _Image: [Dmitry Chernyshov][dmitrychernyshov]_
 
 I already wrote about [how to remove ugly media on iOS using Shortcuts][shortcuts-article]. There's another way to accomplish this that works on a Mac, too!

@@ -8,7 +8,7 @@ date: 2019-09-25 12:00
 
 <!-- description: That old quote about writing being as simple as sitting over a typewriter to bleed? That's plain text. No fuss, just the work. -->
 
-![Green Remington typewriter with black keys.](/assets/green-used-remington-typewriter.JPG)
+![Green Remington typewriter with black keys.](/assets/images/green-used-remington-typewriter.JPG)
 
 I wrote this piece on a combination of 1) a MacBook Pro (late–2012) and 2) an iPad Pro (3rd Gen) using a combination of:
 

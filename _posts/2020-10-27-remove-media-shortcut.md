@@ -8,7 +8,7 @@ date: 2020-10-27 12:00
 
 
 
-![iPad and Apple Pencil lying on desk.](/assets/ipad-on-desk.jpg)
+![iPad and Apple Pencil lying on desk.](/assets/images/ipad-on-desk.jpg)
 _Image: [Francois Hoang][francoishoang]_
 
 Freelance writers have to be adventurous, un-picky, ready to learn about a new subject every week. You research hard about your client's topic, throw yourself into it until you're much more than a surface-level summarizer, then enjoy that best kind of learning where you _become_ the teacher, exploring the subject in your own words and absorbing it further into your bones.
@@ -73,7 +73,7 @@ Then, it loops over both sets, changing each element's display property to "none
 
 (If you're better at JS than me, feel free to improve this code!)
 
-![Screenshot of Shortcuts "Run JavaScript on web page" action.](/assets/shortcuts-js-action-screenshot.png)
+![Screenshot of Shortcuts "Run JavaScript on web page" action.](/assets/images/shortcuts-js-action-screenshot.png)
 
 _This is the single action used in this shortcut._
 
@@ -91,7 +91,7 @@ That sets the input to the website you'll pass into the shortcut from the share 
 
 **Now, test it!**
 
-![Screenshot of share sheet shortcuts](/assets/share-sheet-screenshot.png)
+![Screenshot of share sheet shortcuts](/assets/images/share-sheet-screenshot.png)
 
 _Before (left) and after running the shortcut._
 
