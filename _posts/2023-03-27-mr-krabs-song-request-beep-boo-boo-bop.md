@@ -3,7 +3,7 @@ layout: post
 title: Mr. Krabs Was Requesting This Song on the Radio
 description: Robot Krabs was on to something.
 author: Tommy Twardzik
-tags: music
+tags: [music]
 date: 2023-03-27 12:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: A More Readable Internet
 author: Tommy Twardzik
-tags: programming
+tags: [programming]
 date: 2019-12-09 12:00
 ---
 

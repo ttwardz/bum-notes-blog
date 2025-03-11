@@ -1,7 +1,7 @@
 ---
 title: Remove Ugly Media Bookmarklet for Mac
 author: Tommy Twardzik
-tags: programming
+tags: [programming]
 date: 2020-11-12 12:00
 ---
 

@@ -32,7 +32,10 @@ mastodon:
    instance: mstdn.social
 
 # Build settings
-theme: minima
+sass:
+  style: compressed
+  
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
