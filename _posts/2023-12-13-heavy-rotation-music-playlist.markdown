@@ -3,7 +3,7 @@ layout: post
 title:  "On Heavy Rotation"
 author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
-date: 2025-03-10 00:30:34 -0400
+date: 2023-12-13 12:30:34 -0400
 tags: [music]
 ---
 <!-- original publication date December 13, 2023 -->
