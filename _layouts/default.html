@@ -12,7 +12,10 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <a href="{{ '/' | relative_url }}" class="site-title">Bum Notes</a>
+      <a href="{{ '/' | relative_url }}" class="site-title">
+        <img src="{{ site.logo }}" alt="{{ site.title }}" class="site-logo">
+        <span>Bum Notes</span>
+      </a>
 
       {% include navigation.html %}
 
