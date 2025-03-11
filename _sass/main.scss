@@ -96,12 +96,22 @@ img {
   align-items: center;
 }
 
+.site-logo {
+  max-height: 40px;
+  // margin-right: 10px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
 .site-title {
   font-family: var(--font-serif);
   font-weight: 700;
   font-size: 1.8rem;
   color: var(--color-primary);
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 12px; /* Creates a small gap between logo and text */
 }
 
 .site-nav {

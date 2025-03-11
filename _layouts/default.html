@@ -8,11 +8,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}Bum Notes</title>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="container">
-      <a href="{{ '/' | relative_url }}" class="site-title">Bum Notes</a>
+      <a href="{{ '/' | relative_url }}" class="site-title">
+        <img src="{{ site.logo }}" alt="{{ site.title }}" class="site-logo">
+        <span>Bum Notes</span>
+      </a>
 
       {% include navigation.html %}
 
