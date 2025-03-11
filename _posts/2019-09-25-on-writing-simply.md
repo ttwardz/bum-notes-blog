@@ -1,7 +1,7 @@
 ---
 title: On Writing Simply
 author: Tommy Twardzik
-tags: writing
+tags: [writing]
 date: 2019-09-25 12:00
 ---
 

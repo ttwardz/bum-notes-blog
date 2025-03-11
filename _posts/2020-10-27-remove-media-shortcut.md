@@ -1,7 +1,7 @@
 ---
 title: Remove Ugly Web Media with Shortcuts and JavaScript
 author: Tommy Twardzik
-tags: shortcuts, programming
+tags: [shortcuts, programming]
 date: 2020-10-27 12:00
 ---
 

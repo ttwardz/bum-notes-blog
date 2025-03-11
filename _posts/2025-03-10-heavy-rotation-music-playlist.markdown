@@ -4,7 +4,7 @@ title:  "On Heavy Rotation"
 author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
 date: 2025-03-10 00:30:34 -0400
-categories: music
+tags: [music]
 ---
 <!-- original publication date December 13, 2023 -->
 

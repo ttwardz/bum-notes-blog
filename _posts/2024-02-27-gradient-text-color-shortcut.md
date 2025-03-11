@@ -3,7 +3,7 @@ layout: post
 title: A Shortcut That Generates Inline CSS for Gradient Text Colors
 description: Generate the inline CSS for a gradient text color that you can use in any text editor that supports it.
 author: Tommy Twardzik
-tags: shortcuts, writing, programming
+tags: [shortcuts, writing, programming]
 date: 2024-02-27 12:00
 ---
 
@@ -16,7 +16,9 @@ To do this easily in Obsidian, I created a shortcut for iOS and Mac that uses  (
 
 <span style="background: linear-gradient(to right, #8943a5 0%, #e80b51 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block"><strong>Download the shortcut here:</strong></span> [Generate Inline CSS for Gradient Text - Shortcuts](https://www.icloud.com/shortcuts/05f59db2df334803ac598a7ef47e078a) 
 
+
 ***
+
 
 You can tweak this shortcut for your own needs.
 
@@ -31,7 +33,6 @@ Some ideas I have that I'll try if I find the time:
 <br>
 <strong>If you build on this shortcut to make it even better, let me know on <a href="https://mstdn.social/@ttwardz" target="_blank" rel="noopener noreferrer">Mastodon</a> or <a href="https://twitter.com/ttwardz" target="_blank" rel="noopener noreferrer">Twitter</a>!</strong>
 
-<br>
 <br>
 <br>
 📱

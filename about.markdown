@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 A blog about music, art, productivity, work, and creative projects. 
