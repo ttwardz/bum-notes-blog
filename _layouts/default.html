@@ -13,11 +13,9 @@
   <header class="site-header">
     <div class="container">
       <a href="{{ '/' | relative_url }}" class="site-title">Bum Notes</a>
-      <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-        <a href="{{ '/about' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
-        <a href="{{ '/archive' | relative_url }}" class="{% if page.url == '/archive/' %}active{% endif %}">Archive</a>
-      </nav>
+
+      {% include navigation.html %}
+
     </div>
   </header>
 
@@ -26,5 +24,6 @@
   </main>
 
   {% include footer.html %}
+  
 </body>
 </html>
