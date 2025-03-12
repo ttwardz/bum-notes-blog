@@ -1,0 +1,30 @@
+<!-- _includes/post-navigation.html -->
+<div class="post-navigation">
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="prev-post">
+        <span class="nav-label">Previous</span>
+        {% if page.previous.layout == 'journal' %}
+          <span class="post-title">
+            {{ page.previous.date | date: "%b %d" }} - 
+            {{ page.previous.content | strip_html | truncatewords: 5 }}
+          </span>
+        {% else %}
+          <span class="post-title">{{ page.previous.title }}</span>
+        {% endif %}
+      </a>
+    {% endif %}
+    
+    {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="next-post">
+        <span class="nav-label">Next</span>
+        {% if page.next.layout == 'journal' %}
+          <span class="post-title">
+            {{ page.next.date | date: "%b %d" }} - 
+            {{ page.next.content | strip_html | truncatewords: 5 }}
+          </span>
+        {% else %}
+          <span class="post-title">{{ page.next.title }}</span>
+        {% endif %}
+      </a>
+    {% endif %}
+</div>

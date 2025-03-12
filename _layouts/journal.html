@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="journal-post">
+  <header class="journal-header">
+    <div class="journal-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" class="journal-date">
+        {{ page.date | date: "%B %d, %Y" }} at {{ page.date | date: "%l:%M %p" | strip }}
+      </time>
+      {% if page.author %}
+        <span class="journal-author">by {{ page.author }}</span>
+      {% endif %}
+    </div>
+    
+    {% if page.tags %}
+      <div class="journal-tags">
+        {% for tag in page.tags %}
+          <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+  
+  <div class="journal-content">
+    {{ content }}
+  </div>
+</article>
+
+{% include post-navigation.html %}
