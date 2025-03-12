@@ -365,6 +365,132 @@ img {
   margin-bottom: var(--space-s);
 }
 
+/* Journal post styles */
+.journal-post {
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--color-card-background);
+  border: 1px solid var(--color-border);
+  padding: var(--space-l);
+}
+
+.journal-header {
+  margin-bottom: var(--space-m);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: var(--space-m);
+}
+
+.journal-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin-bottom: var(--space-s);
+}
+
+.journal-date {
+  font-weight: 600;
+}
+
+.journal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+  margin-top: var(--space-s);
+}
+
+.journal-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.journal-content p {
+  margin-bottom: var(--space-m);
+}
+
+.journal-content img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin: var(--space-m) 0;
+}
+
+/* Homepage journal card */
+.posts-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-l);
+  margin-bottom: var(--space-l);
+}
+
+.journal-card {
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--color-card-background);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.journal-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.journal-card-content {
+  padding: var(--space-m);
+}
+
+.journal-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin-bottom: var(--space-s);
+}
+
+.journal-card-excerpt {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: var(--space-s);
+}
+
+.journal-card-excerpt img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin: var(--space-s) 0;
+}
+
+/* Homepage journal card */
+.posts-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-l);
+  margin-bottom: var(--space-l);
+}
+
+.read-more {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-top: var(--space-s);
+}
+
+/* Make the grid layout work for both post types */
+@media (min-width: 768px) {
+  .posts-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-l);
+  }
+}
+
 /* Archive page */
 .archive {
   max-width: 800px;
@@ -397,28 +523,68 @@ img {
   padding-bottom: var(--space-s);
 }
 
+/* Archive page journal styling */
+.archive-journal {
+  background-color: var(--color-card-background);
+  border-radius: 4px;
+  padding: var(--space-s) var(--space-m);
+  border-left: 3px solid var(--color-primary-light);
+}
+
+.archive-journal .post-date {
+  font-style: italic;
+}
+
+.journal-excerpt {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.4;
+  font-style: italic;
+}
+
+.archive-journal-content {
+  flex: 1;
+}
+
+/* Updated archive item styles for consistent layout */
 .archive-item {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
   flex-wrap: wrap;
   margin-bottom: var(--space-m);
+  padding: var(--space-s) 0;
 }
 
 .archive-item .post-date {
-  width: 100px;
+  width: 150px;
   font-family: var(--font-sans);
   font-size: 0.9rem;
   color: var(--color-text-light);
 }
 
-.archive-item .post-title {
-  margin: 0;
-  font-size: 1.1rem;
+.archive-item .post-title, 
+.archive-item .archive-journal-content {
+  flex: 1;
+  min-width: 200px;
   margin-right: var(--space-s);
 }
 
 .archive-item .post-tags {
-  margin-left: auto;
+  width: 100%;
+  margin-top: var(--space-s);
+  margin-left: 150px;
+}
+
+@media (max-width: 768px) {
+  .archive-item .post-date {
+    width: 100%;
+    margin-bottom: var(--space-s);
+  }
+  
+  .archive-item .post-tags {
+    margin-left: 0;
+  }
 }
 
 /* Transition effect for theme switching */

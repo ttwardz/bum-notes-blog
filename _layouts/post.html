@@ -40,18 +40,4 @@ layout: default
   </div>
 </article>
 
-<div class="post-navigation">
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | relative_url }}" class="prev-post">
-      <span class="nav-label">Previous</span>
-      <span class="post-title">{{ page.previous.title }}</span>
-    </a>
-  {% endif %}
-  
-  {% if page.next.url %}
-    <a href="{{ page.next.url | relative_url }}" class="next-post">
-      <span class="nav-label">Next</span>
-      <span class="post-title">{{ page.next.title }}</span>
-    </a>
-  {% endif %}
-</div>
+{% include post-navigation.html %}
