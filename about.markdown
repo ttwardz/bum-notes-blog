@@ -10,6 +10,6 @@ A blog about music, art, productivity, work, and creative projects.
 
 <p>
 Want to work together? 
-<strong><a href="https://tomtwardzik.com/" target="_blank" rel="noopener noreferrer">See my portfolio and get in touch.</a></strong>
+<strong><a href="https://tommytwardzik.com/" target="_blank" rel="noopener noreferrer">See my portfolio and get in touch.</a></strong>
 </p>
 </div>
