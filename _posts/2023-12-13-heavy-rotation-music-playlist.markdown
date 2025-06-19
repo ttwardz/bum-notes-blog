@@ -30,6 +30,9 @@ Their sound is grunge and punk, delicate and thoughtful. Their attitude is carel
 
 See also: "Nurse!" ([Apple Music](https://music.apple.com/album/nurse/1678575073?i=1678575677))
 
+### Bathroom Light - Mt. Joy
+Feels like a late summer night when everything around you has quieted down, it's closing time or the fire's burned to embers, and you find yourself locked in with one person and starting to dream a little.
+
 ### Knees Deep - The Beths
 The Beths are way too much fun. They're full of energy and songs that on the surface sound like the summer feels. But behind the catchy melodies, they surprise you with heavy riffs. Knees Deep has one of my favorite choruses, but it also has a guitar solo that *shreds*.
 
