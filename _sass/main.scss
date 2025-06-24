@@ -87,7 +87,7 @@ img {
 .site-header {
   padding: var(--space-l) 0;
   border-bottom: 1px solid var(--color-border);
-  margin-bottom: var(--space-xl);
+  margin-bottom: var(--space-l);
 }
 
 .site-header .container {
@@ -244,13 +244,17 @@ img {
   
   .journal-sidebar {
     position: static;
-    order: 2;
+    order: -1;
   }
   
   .journal-feed {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: var(--space-m);
+  }
+  
+  .journal-feed .journal-card:nth-child(n+5) {
+    display: none;
   }
 }
 
@@ -656,12 +660,13 @@ img {
 .archive-journal {
   background-color: var(--color-card-background);
   border-radius: 4px;
-  padding: var(--space-s) var(--space-m);
+  padding: var(--space-s) var(--space-l);
   border-left: 3px solid var(--color-primary-light);
 }
 
 .archive-journal .post-date {
   font-style: italic;
+  padding-left: 1rem;
 }
 
 .journal-excerpt {
