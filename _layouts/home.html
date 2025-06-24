@@ -9,7 +9,7 @@ layout: default
       
       <div class="posts-container">
         {% assign posts = site.posts | where_exp: "post", "post.layout != 'journal'" %}
-        {% for post in posts limit:6 %}
+        {% for post in posts limit:8 %}
           <article class="post-card">
             {% if post.image %}
               <div class="post-image">
@@ -53,7 +53,7 @@ layout: default
       
       <div class="journal-feed">
         {% assign journals = site.posts | where: "layout", "journal" %}
-        {% for journal in journals limit:8 %}
+        {% for journal in journals limit:10 %}
           <article class="journal-card">
             <div class="journal-card-content">
               <div class="journal-card-meta">
