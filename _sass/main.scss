@@ -232,7 +232,7 @@ img {
 }
 
 /* Responsive adjustments for two-column layout */
-@media (max-width: 1024px) {
+@media (max-width: 600px) {
   .home-layout {
     grid-template-columns: 1fr;
     gap: var(--space-l);

@@ -49,7 +49,7 @@ layout: default
     </section>
 
     <aside class="journal-sidebar">
-      <h2 class="section-title">Recent Journals</h2>
+      <h2 class="section-title">Recent Journal Entries</h2>
       
       <div class="journal-feed">
         {% assign journals = site.posts | where: "layout", "journal" %}
@@ -66,7 +66,7 @@ layout: default
                 {% assign paragraphs = journal.content | split: '</p>' %}
                 {{ paragraphs[0] }}</p>
                 {% if paragraphs.size > 1 %}
-                  <a href="{{ journal.url | relative_url }}" class="read-more">Read more...</a>
+                  <a href="{{ journal.url | relative_url }}" class="read-more">Read full entry...</a>
                 {% endif %}
               </div>
               
@@ -80,6 +80,10 @@ layout: default
             </div>
           </article>
         {% endfor %}
+      </div>
+      
+      <div class="see-more">
+        <a href="{{ '/archive/#journal' | relative_url }}" class="btn">Read all journal entries</a>
       </div>
     </aside>
   </div>
