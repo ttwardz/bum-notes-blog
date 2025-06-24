@@ -25,12 +25,17 @@ layout: default
       {% endif %}
       
       <article class="archive-item {% if post.layout == 'journal' %}archive-journal{% endif %}" data-tags="{% for tag in post.tags %}{{ tag | slugify }} {% endfor %}">
-        <span class="post-date">
-          {{ post.date | date: "%b %d" }}
-          {% if post.layout == 'journal' %}
-            {{ post.date | date: "%l:%M %p" | strip }}
-          {% endif %}
-        </span>
+        <div class="post-type-date">
+          <span class="post-type">
+            {% if post.layout == 'journal' %}Journal{% else %}Post{% endif %}
+          </span>
+          <span class="post-date">
+            {{ post.date | date: "%b %d" }}
+            {% if post.layout == 'journal' %}
+              {{ post.date | date: "%l:%M %p" | strip }}
+            {% endif %}
+          </span>
+        </div>
         
         {% if post.layout == 'journal' %}
           <div class="archive-journal-content">

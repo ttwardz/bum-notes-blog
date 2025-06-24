@@ -666,6 +666,9 @@ img {
 
 .archive-journal .post-date {
   font-style: italic;
+}
+
+.archive-journal .post-date, .archive-journal .post-type {
   padding-left: 1rem;
 }
 
@@ -690,11 +693,24 @@ img {
   padding: var(--space-s) 0;
 }
 
-.archive-item .post-date {
+.archive-item .post-type-date {
   width: 150px;
   font-family: var(--font-sans);
   font-size: 0.9rem;
   color: var(--color-text-light);
+  display: flex;
+  flex-direction: column;
+}
+
+.archive-item .post-type {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.archive-item .post-date {
+  font-size: 0.9rem;
 }
 
 .archive-item .post-title, 
@@ -711,7 +727,7 @@ img {
 }
 
 @media (max-width: 768px) {
-  .archive-item .post-date {
+  .archive-item .post-type-date {
     width: 100%;
     margin-bottom: var(--space-s);
   }
