@@ -235,6 +235,32 @@ img {
   padding: 1px 6px;
 }
 
+/* Journal header with jump button */
+.journal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-m);
+}
+
+.jump-to-posts {
+  display: none;
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.jump-to-posts:hover {
+  background-color: var(--color-primary-dark);
+}
+
 /* Responsive adjustments for two-column layout */
 @media (max-width: 600px) {
   .home-layout {
@@ -255,6 +281,10 @@ img {
   
   .journal-feed .journal-card:nth-child(n+5) {
     display: none;
+  }
+  
+  .jump-to-posts {
+    display: inline-block;
   }
 }
 

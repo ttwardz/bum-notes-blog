@@ -49,7 +49,10 @@ layout: default
     </section>
 
     <aside class="journal-sidebar">
-      <h2 class="section-title">Recent Journal Entries</h2>
+      <div class="journal-header">
+        <h2 class="section-title">Recent Journal Entries</h2>
+        <button class="jump-to-posts" onclick="document.querySelector('.latest-posts').scrollIntoView({behavior: 'smooth'})">Jump to Posts</button>
+      </div>
       
       <div class="journal-feed">
         {% assign journals = site.posts | where: "layout", "journal" %}
