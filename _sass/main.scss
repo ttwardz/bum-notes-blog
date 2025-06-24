@@ -571,6 +571,57 @@ img {
   margin: 0 auto;
 }
 
+/* Tag filtering */
+.tag-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+  margin-bottom: var(--space-l);
+  padding-bottom: var(--space-l);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.filter-btn {
+  background-color: var(--color-card-background);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  padding: var(--space-s) var(--space-m);
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+  background-color: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.filter-btn.active {
+  background-color: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.filter-tag {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filter-tag:hover {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.tag-description {
+  font-family: var(--font-sans);
+  color: var(--color-text-light);
+  margin-bottom: var(--space-l);
+  font-style: italic;
+}
+
 .page-title {
   font-size: 2rem;
   margin-bottom: var(--space-l);
