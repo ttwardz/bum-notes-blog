@@ -18,6 +18,14 @@ tags: [music]
 
 ## Highlights
 
+### 2468 - Horsegirl
+
+2, 4, 6, 8, dadadadadadahhhdadah
+
+dadadadadadahhhdadahdadadadadadahhhdadah
+
+See also: Julie
+
 ### Right Back to It - Waxahatchee
 One of the best songs of 2024?? The softly plucked banjo, the subtle steel string slide guitar, the patient guitar solo, and, most of all, the vocals—the texture of 'em, the harmonies, the yearning.
 
