@@ -5,6 +5,48 @@ layout: default
 <div class="home">
   <div class="home-layout">
     <section class="latest-posts">
+      {% assign pinned_posts = site.posts | where_exp: "post", "post.layout != 'journal'" | where: "pinned", true %}
+      {% if pinned_posts.size > 0 %}
+      <div class="pinned-posts">
+        <h1 class="section-title">Pinned Posts</h1>
+        
+        <div class="posts-container">
+          {% for post in pinned_posts %}
+            <article class="post-card">
+              {% if post.image %}
+                <div class="post-image">
+                  <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                  </a>
+                </div>
+              {% endif %}
+              <div class="post-content">
+                <h2 class="post-title">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h2>
+                <div class="post-meta">
+                  <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+                  {% if post.author %}
+                    <span class="post-author">by {{ post.author }}</span>
+                  {% endif %}
+                </div>
+                {% if post.description %}
+                  <p class="post-description">{{ post.description }}</p>
+                {% endif %}
+                {% if post.tags %}
+                  <div class="post-tags">
+                    {% for tag in post.tags %}
+                      <a href="{{ site.baseurl }}/archive/#{{ tag | slugify }}" class="tag">{{ tag }}</a>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
       <h1 class="section-title">Latest Posts</h1>
       
       <div class="posts-container">
