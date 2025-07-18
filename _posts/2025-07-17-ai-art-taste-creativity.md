@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-07-17 22:10
-title: AI Can't Make Real Art Without Taste
+title: Without Taste, AI Can't Make Real Art
 description: There's a place for AI in the creative process, but without taste, this technology can't replace the artist.
 author: Tommy Twardzik
 pinned: true
