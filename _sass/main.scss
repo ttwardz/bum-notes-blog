@@ -83,6 +83,20 @@ img {
   height: auto;
 }
 
+ul,
+ol {
+  padding-left: 2.5rem;
+}
+
+ul li::marker, 
+ol li::marker {
+  color: var(--color-primary); /* Just the bullet/number */
+}
+
+// ul {
+  // list-style-type: circle;
+// }
+
 /* Header */
 .site-header {
   padding: var(--space-l) 0;
