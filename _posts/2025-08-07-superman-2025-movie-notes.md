@@ -11,6 +11,7 @@ tags: [film]
 
 <br>
 
+Scoring, for no reason:
 - +2 krypto super dog ❤️ 
 - -1 it fake dog
 - +2 mr terrific never heard of him he’s awesome
@@ -23,8 +24,8 @@ tags: [film]
 - +2 Superman saved a squirrel
 - -1 the S on his chest is just a diagonal line
 
-\
-\
+<br>
+
 Superman job description: Primarily catching heavy things before they fall on people.
 
 The movie: I liked it.
