@@ -1,0 +1,12 @@
+---
+layout: journal
+author: Tommy Twardzik
+date: 2025-08-30 20:57
+tags: [journal]
+---
+
+Might start writing text messages like telegrams:
+
+*E.g., making late-summer plans:*
+
+"Must do beach before cold. Desperate."

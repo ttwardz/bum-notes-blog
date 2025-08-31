@@ -1,0 +1,8 @@
+---
+layout: journal
+author: Tommy Twardzik
+date: 2025-08-30 21:04
+tags: [journal]
+---
+
+Test shortcut
