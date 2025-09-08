@@ -171,10 +171,11 @@ When I first subscribed to Sling it was $25 a month and soccer was still on NBC 
 
 Maybe instead I should just [blow up my TV][prine].
 
-
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OLSGLOLsuTo?si=bV2ywKBKjE8rqzFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-\
+<br>
 \*Note to self and to you: I've been switching between browser tabs and subscription management pages and plan comparison charts for so long today, I might've gotten any of these numbers wrong and wound up making the incorrect decision in the end. If I did, please let me know. With our combined power, we can make sure the corporations cannot confuse us into paying them more than we should.
 
 
