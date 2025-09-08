@@ -424,10 +424,18 @@ figcaption {
 }
 
 table {
-    width: 400px;          /* consistent width for all tables */
+    width: 100%;        /* Take full available width */
+    max-width: 400px;   /* But never wider than 400px */
     border-collapse: collapse;
-    margin-bottom: 20px;   /* spacing between tables */
+    margin-bottom: 20px;
+}
+
+/* On mobile, let tables use full width */
+@media (max-width: 768px) {
+  table {
+    max-width: 100%;     /* Remove the max-width constraint */
   }
+}
 
 th, td {
   border: 1px solid #ccc;
@@ -552,6 +560,23 @@ th {
   text-transform: uppercase;
   color: var(--color-text-light);
   margin-bottom: var(--space-s);
+}
+
+/* Responsive video container */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  margin-bottom: var(--space-m);
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Journal post styles */
