@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-09-07 20:00
-title: I Can’t Figure Out How to Watch Live Sports Anymore
+title: I Don’t Know How to Watch Live Sports Anymore
 description: Join me as I try to find out who even to pay for the sports I want to watch and how much they want from me.
 author: Tommy Twardzik
 pinned: true
