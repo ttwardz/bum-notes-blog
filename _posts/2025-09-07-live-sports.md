@@ -31,7 +31,7 @@ Here’s my current roster of streaming services relevant to this adventure:
   <tr>
     <td>ESPN+</td>
     <td>$12</td>
-    <td>I think it’s still for soccer cup games?</td>
+    <td>I think it’s still showing soccer cup matches for some leagues?</td>
   </tr>
   <tr>
     <td>Disney+</td>
