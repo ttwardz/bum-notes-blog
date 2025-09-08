@@ -367,6 +367,19 @@ ol li::marker {
   gap: var(--space-s);
 }
 
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem; /* optional: space between images */
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain; /* ensures the whole image is visible, may add letterboxing */
+}
+
 .tag {
   background-color: var(--color-accent);
   color: var(--color-primary);
@@ -374,6 +387,19 @@ ol li::marker {
   font-size: 0.75rem;
   padding: 2px 8px;
   border-radius: 4px;
+}
+
+figure {
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
+  text-align: center;
 }
 
 .see-more {
@@ -395,6 +421,22 @@ ol li::marker {
 .btn:hover {
   background-color: var(--color-primary-dark);
   color: white;
+}
+
+table {
+    width: 400px;          /* consistent width for all tables */
+    border-collapse: collapse;
+    margin-bottom: 20px;   /* spacing between tables */
+  }
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+}
+
+th {
+  background-color: #f9f9f9;
+  text-align: left;
 }
 
 /* Single post */

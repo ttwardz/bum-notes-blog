@@ -4,7 +4,7 @@ date: 2025-08-07 12:44
 title: Superman (2025) Picking Things Up and Putting Them Down
 description: Is anything cooler than Superman flying.
 author: Tommy Twardzik
-tags: [film]
+tags: [film, entertainment]
 ---
 
 **Nothing is cooler than Superman *flying*.**
