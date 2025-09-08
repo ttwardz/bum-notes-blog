@@ -18,7 +18,11 @@ Everybody keeps buying each other and each other's brands. In 2025, ESPN launche
 
 You're supposed to be able to get RedZone as part of other bundle offers from other streaming services and cable packages, like Sling, DirecTV, and Hulu + Live TV. So, I thought there must be a way to add it onto one of my existing subscriptions and save a little money.
 
-I watch football and soccer and a bit of basketball and, like, the Olympics. Turns out, I’ve assembled quite the collection of streaming TV subscriptions for live sports over the years, akin to the tangle of cables clogging the drawer next to my desk, USB-As and Cs and microUSBs and special ones for hard drives and toothbrushes and pencil sharpeners and I don't remember what else.
+I watch football and soccer and a bit of basketball and, like, the Olympics. Turns out, I’ve assembled quite the collection of streaming TV subscriptions for live sports over the years. 
+
+It's akin to the tangle of cables clogging the drawer next to my desk, USB-As and Cs and microUSBs and special ones for hard drives and toothbrushes and pencil sharpeners and I don't remember what else.
+
+I kept needing to add them for specific reasons and now there are too many of them and they're all a little less valuable (and a little more expensive!).
 
 Here’s my current roster of streaming services relevant to this adventure:
 
@@ -37,21 +41,21 @@ Here’s my current roster of streaming services relevant to this adventure:
   <tr>
     <td>Sling</td>
     <td>$46</td>
-    <td>Ostensibly for Premier League; now mostly for Law & Order SVU and Baywatch</td>
+    <td>Previously for Premier League; now mostly for Law & Order SVU and Baywatch. And the NBA on TNT guys although didn't that get cancelled or sold now? Ugh.</td>
   </tr>
 </table>
 <br>
 
-With these subscriptions, there are a few options to add or bundle RedZone: 
-- Subscribe to NFL+ Premium for $15 a month
-- Upgrade ESPN+ to ESPN Unlimited with the NFL+ add-on for $45 a month
+With this lineup, there are a few options to add or bundle RedZone: 
+- Subscribe to NFL+ Premium on its own for $15 a month
+- Upgrade ESPN+ to ESPN Unlimited with the NFL+ Premium add-on for $45 a month
 - Add the Sports Extra package to Sling for a total of $57 a month
 
-At this point, I’m paying for Disney+ and ESPN+. Can I bundle those into the giant conglomerate DISNEY® subscription that unnecessarily includes some flavor of Hulu?[^hulu]
+At this point, I’m paying for Disney+ and ESPN+. Can't I bundle those into the giant conglomerate DISNEY® subscription that unnecessarily includes some flavor of Hulu?[^hulu]
 
-As an aside, TV websites are *terrible*. So bad. Have you tried logging in to a streaming service and managing account settings on your phone? Torture. I had to break out the grown-up computer.
+As an aside, streaming TV websites are mostly *terrible*. So bad. Have you tried logging in to a streaming service and managing account settings on your phone? Torture. I had to break out the grown-up computer.
 
-## I Would Rather a Horrifying Apparition Crawled Out of the Screen at Me Right Now
+## I Would Rather a Horrifying Apparition Crawled Out of the Screen and Attacked Me Right Now
 
 I start loading various Disney and ESPN pages, trying to find the bundle I’m looking for.
 
@@ -60,7 +64,7 @@ I start loading various Disney and ESPN pages, trying to find the bundle I’m l
   <figcaption>I logged in to Disney+ and it knows I have an existing subscription.</figcaption>
 </figure>
 
-When I log in to Disney+ and click the button to browse plans, it... takes me to the ESPN website and asks me to log in again. To the same account.
+When I log in to Disney+ and click the button to browse plans, it... takes me to the ESPN website and asks me to log in again. To the same account. Cool. Great work everybody so convenient glad we merged all these things.
 
 <figure>
   <img src="/assets/images/live-sports/espn-existing-mydisney-account-message.png" alt="ESPN knows I have a Disney account, so why did Disney direct me here?">
@@ -80,37 +84,39 @@ Great.
 
 Now I’m in *Verizon’s* FAQ section researching what *Disney+, Hulu, and ESPN+* bundles are.[^ai]
 
-Disney+, Hulu, and ESPN+ sounds like the right bundle, but where’s NFL RedZone? Well, that’s an add-on to the bundle. No surprise there.
+Disney+, Hulu, and ESPN+ sounds like the right bundle, but where’s NFL RedZone? Well, that’s an add-on to the bundle. More more give me more!
 
-What is surprising is that I’m apparently not allowed to upgrade to Verizon’s Disney+ and Hulu and ESPN bundle. Why? I don’t know. It just says it’s no longer available for my account. I’m guessing it’s because I’d already chosen the lesser Disney+ (solo) subscription, thus unknowingly using up my one credit in the machine.
+Oh. I’m apparently not allowed to upgrade to Verizon’s Disney+ and Hulu and ESPN bundle. Why? I don’t know. It just says it’s no longer available for my account.
 
-I could cancel the subscription through Verizon and just sign up for the bundle through Disney. Why not. Back to Disney to try to figure out what bundle I’d actually need and how it compares to what I’m paying now.
+I’m guessing it’s because I’d already chosen the lesser Disney+ (solo) subscription, thus unknowingly using up my one credit in the machine.
 
-This is where I wound up: a truly absurd chart on [Disney support page about plans and pricing][chart] with enough brand name variations to give me nightmares.
+I can cancel the subscription through Verizon and just sign up for the bundle through Disney. Why not. Back to Disney to try to figure out once and for all what bundle I’d actually need and how it compares to what I’m paying now.
+
+This is where I wind up: a truly absurd chart on [Disney support page about plans and pricing][chart] with enough brand name variations to give me nightmares.
 
 <figure>
-  <img src="/assets/images/live-sports/enormous-chart-disney-plans-bundles.png" alt="Disney+, ESPN Select, Disney+ Premium, ESPN Select Bundle Legacy, ESPN Unlimited Bundle, ESPN Unlimited Bundle Premium...">
-  <figcaption>Disney+, ESPN Select, Disney+ Premium, ESPN Select Bundle Legacy, ESPN Unlimited Bundle, ESPN Unlimited Bundle Premium...</figcaption>
+  <img src="/assets/images/live-sports/enormous-chart-disney-plans-bundles.png" alt="Many brand names---Disney+, ESPN Select, Disney+ Premium, ESPN Select Bundle Legacy, ESPN Unlimited Bundle, ESPN Unlimited Bundle Premium...">
+  <figcaption>Disney+, ESPN Select, Disney+ Premium, ESPN Select Bundle Legacy, ESPN Unlimited Bundle, ESPN Unlimited Bundle Premium... There's much more to this chart than I could fit onscreen.</figcaption>
 </figure>
 
 
-Relevant to me: the Disney+, Hulu, ESPN Unlimited Bundle Premium, $45/month.
+Relevant to me: the "Disney+, Hulu, ESPN Unlimited Bundle Premium" bundle, $45/month.
 
 And then, a major plot twist: the Disney+, Hulu, Max Bundle (No Ads), $30/month.
 
-Yes, I am also subscribed to HBO Max-not-Go-not-just-Max-and-not-just-HBO. This is not sports related but has now thrust itself brazenly into the story as a leading role.
+Yes, I am also subscribed to HBO Max-not-Go-not-just-Max-and-not-just-HBO. HBO, not even sports related, has now thrust itself brazenly into the story in a leading role.
 
-## Not Even Scott Hanson Can Save Us
+## Scott Hanson Save Me Plz
 
 Before I get to the final standings and, I think, an actual solution, I just want to emphasize what's happening: **I am juggling details for six different subscriptions**---one of which (Hulu) I don't even have and don't want but might have to acquire---in at least four different permutations.
 
 All this to try to "bundle" NFL RedZone.
 
-What I could've done is simply subscribe to NFL+ Premium for $15 per month. But surely, all this advertising and all these promotions mean there's a way to save a few bucks. You know, for brand loyalty or whatever.
+What I could've done is simply subscribed to NFL+ Premium for $15 per month. But surely, with all this advertising and all these promotions, there's a way to save a few bucks. You know, for brand loyalty or whatever.
 
 ## The Final Standings
 
-It was around 4pm when I started this project and now it's 7:30pm and RedZone will be logging off for the week any minute as the final pre-primetime games tick down. There's always next week, I guess. I hope.
+It was around 4pm when I started this project and it's now 7:30pm and RedZone will be logging off for the week any minute as the final pre-primetime games tick down. There's always next week, I guess. I hope.
 
 Here are the four options I've come up with:
 
@@ -149,22 +155,19 @@ Here are the four options I've come up with:
 </table>
 
 
-\
-By this math, the cheapest option---by $2---is simply adding NFL+ Premium as ANOTHER STREAMING SERVICE.
+By this math, the cheapest option---by $2---is simply adding NFL+ Premium as, yes, ANOTHER STREAMING SERVICE.
 
-The best *value* is technically the Disney+, Hulu, ESPN Unlimited bundle with the NFL+ add-on because it adds Hulu for just $2 more, but is it really better value if I don't want or need Hulu?
+The best *value* is technically the Disney+, Hulu, ESPN Unlimited bundle with the NFL+ add-on because it adds Hulu for just $2 more, but is it really better value if I don't want or need Hulu? Also isn't Hulu dead?
 
-## Conclusion
+## Maybe I Won't Watch Football
 
-After all this, it'll be easiest and seemingly cheapest to suck it up and just subscribe to NFL+ for a couple months and then cancel it again. Underwhelming.
+After all this, it'll be easiest and seemingly cheapest to suck it up and just subscribe to NFL+ for a couple months and then cancel it till next season. Underwhelming.
 
-Not to mention that it took almost TWO HOURS of painfully logging in to accounts and checking my credit card statement and doing math to even untangle this web of IP and subscription tiers.
+Not to mention that it took almost TWO HOURS of painfully logging in to accounts and checking my credit card statement and doing math to untangle this web of IP and subscription tiers.
 
 I'm not even going to compare streaming TV to buying old-fashioned cable packages, because it doesn't matter if they were bad or better or worse. The point is: why is *this* so bad?
 
 When I first subscribed to Sling it was $25 a month and soccer was still on NBC and Fox Sports, so it was a great deal. That wasn't that long ago. Now it's all over the place, and I have five different subscriptions for one sport plus a whole new bundle for football.
-
-These companies need to relax.
 
 Maybe instead I should just [blow up my TV][prine].
 
