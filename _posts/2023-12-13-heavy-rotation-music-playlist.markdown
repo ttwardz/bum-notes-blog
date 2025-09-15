@@ -19,25 +19,35 @@ tags: [music]
 
 ## Highlights
 
-### 2468 - Horsegirl
+### [Tarkovski - BODEGA](https://music.apple.com/album/tarkovski/1721242476?i=1721242482)
+
+It's futile to try to describe how catchy this song is. Just listen to it. You have to dance. "No you really don't" is so fun and sassy. 
+
+Been lucky enough to see them a few times, now, and the last one was in Washington Square Park and they brought *so many* people up onto the stage to dance with them during the extended jam. Kicked off summer in the best way.
+
+See also: [Statuette on the Console](https://music.apple.com/album/statuette-on-the-console/1591482699?i=1591482716), [Myrtle Parade](https://music.apple.com/album/myrtle-parade/1770345512?i=1770346196)
+
+### [2468 - Horsegirl](https://music.apple.com/album/2468/1775962947?i=1775962987)
 
 2, 4, 6, 8, dadadadadadahhhdadah
 
 dadadadadadahhhdadahdadadadadadahhhdadah
 
-See also: Julie
+See also: [Julie](https://music.apple.com/album/julie/1775962947?i=1775962994), [Switch Over](https://music.apple.com/album/switch-over/1775962947?i=1775962997), [Well I Know You're Shy](https://music.apple.com/album/well-i-know-youre-shy/1775962947?i=1775962989)
 
-### Right Back to It - Waxahatchee
+### [Right Back to It - Waxahatchee](https://music.apple.com/album/right-back-to-it-feat-mj-lenderman/1721222332?i=1721222337)
+
 One of the best songs of 2024?? The softly plucked banjo, the subtle steel string slide guitar, the patient guitar solo, and, most of all, the vocals—the texture of 'em, the harmonies, the yearning.
 
-### sounds like you had to be there - bar italia
+### [sounds like you had to be there - bar italia](https://music.apple.com/album/sounds-like-you-had-to-be-there/1704622380?i=1704622941)
+
 At bar italia's Bowery Ballroom concert in December 2023, I heard someone tell their friend, "You're about to hear the coolest band in the world. This is the last cool band." I laughed out loud at the declaration, but I at least partially agree—bar italia are very cool.
 
 Their sound is grunge and punk, delicate and thoughtful. Their attitude is careless but in the end happy, and their music transports you to a place where you're dancing at a club but also comfortably at home, nodding your head to your favorite song while also nodding off while the lights come on at closing time.
 
 "The steps you're taking are good / the choice you made is for you." It's reassuring and warm, and it's also just an incredible sound.
 
-See also: "Nurse!" ([Apple Music](https://music.apple.com/album/nurse/1678575073?i=1678575677))
+See also: [Nurse!](https://music.apple.com/album/nurse/1678575073?i=1678575677)
 
 ### Bathroom Light - Mt. Joy
 Feels like a late summer night when everything around you has quieted down, it's closing time or the fire's burned to embers, and you find yourself locked in with one person and starting to dream a little.
@@ -45,21 +55,21 @@ Feels like a late summer night when everything around you has quieted down, it's
 ### Knees Deep - The Beths
 The Beths are way too much fun. They're full of energy and songs that on the surface sound like the summer feels. But behind the catchy melodies, they surprise you with heavy riffs. Knees Deep has one of my favorite choruses, but it also has a guitar solo that *shreds*.
 
-See also: "Silence Is Golden" ([Apple Music](https://music.apple.com/album/silence-is-golden/1620095921?i=1620095931)) and "A Real Thing" ([Apple Music](https://music.apple.com/album/a-real-thing/1601580358?i=1601580362))
+See also: [Silence Is Golden](https://music.apple.com/album/silence-is-golden/1620095921?i=1620095931), [A Real Thing](https://music.apple.com/album/a-real-thing/1601580358?i=1601580362)
 
 ### Vampire Empire - Big Thief
 This one you just have to hear. It turns quiet and wanting into a desperate, frustrated, belting passion. It's a love song where the refrain is "falling," over and over, and it's chaotic and unknown, as falling is and as love is. It'll make you sing and shout along every time.
 
 ## Past Highlights
-### dominique - Ela Minus
-"I should probably eat something that's not liquid." ([Apple Music](https://music.apple.com/album/dominique/1526852447?i=1526852453))
+### [dominique - Ela Minus](https://music.apple.com/album/dominique/1526852447?i=1526852453)
+"I should probably eat something that's not liquid."
 
-### Let Us Die - King Princess
-What an anthem. Guitar-driven, with a huge singalong chorus. Only later did I find out that Taylor Hawkins recorded the massive drums for this one. What a move. ([Apple Music](https://music.apple.com/album/let-us-die/1627312597?i=1627313072))
+### [Let Us Die - King Princess](https://music.apple.com/album/let-us-die/1627312597?i=1627313072)
+What an anthem. Guitar-driven, with a huge singalong chorus. Only later did I find out that Taylor Hawkins recorded the massive drums for this one. What a move.
 
-See also: "I Hate Myself, I Want To Party" ([Apple Music](https://music.apple.com/album/i-hate-myself-i-want-to-party/1627312597?i=1627312600))
+See also: [I Hate Myself, I Want To Party](https://music.apple.com/album/i-hate-myself-i-want-to-party/1627312597?i=1627312600)
 
-### Dawn Chorus - Thom Yorke
+### [Dawn Chorus - Thom Yorke](https://music.apple.com/album/dawn-chorus/1467347588?i=1467347667)
 Dawn Chorus is sparse, pretty, and arresting in its quiet steadiness. Am I uncomfortable because there's something discomforting beneath the surface of its beautiful melody, or am I uncomfortable because feeling things you can't pin down is frightening? I didn't even hear the lyrics the first time through. I was caught up in the whole of it. Shocked by how much this song demanded my attention when I hardly even registered the words. I didn't need to parse the lyrics to know what it was saying. I felt it, all through me.
 
 Now that I have heard the words, felt the struggle for hope, the slipping away of the past, the inability to hold on...
