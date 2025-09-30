@@ -19,6 +19,14 @@ tags: [music]
 
 ## Highlights
 
+### [Taxes - Geese](https://music.apple.com/album/taxes/1818548779?i=1818549167)
+
+One of those songs you can shout along to, sing, dance away the horror of the times. Funny and grim and joyous and loud.
+
+"There is only dance music in times of war," he sings on [100 Horses](https://music.apple.com/album/100-horses/1818548779?i=1818549162). This is that music.
+
+See also: [Cowboy Nudes](https://music.apple.com/album/cowboy-nudes/1822502596?i=1822502604), [2122](https://music.apple.com/album/2122/1822502596?i=1822502599), [Mysterious Love](https://music.apple.com/album/mysterious-love/1822502596?i=1822502803)
+
 ### [Tarkovski - BODEGA](https://music.apple.com/album/tarkovski/1721242476?i=1721242482)
 
 It's futile to try to describe how catchy this song is. Just listen to it. You have to dance. "No you really don't" is so fun and sassy. 
