@@ -4,6 +4,7 @@ title:  "On Heavy Rotation"
 author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
 date: 2023-12-13 12:30:34 -0400
+dateUpdated: 2025-10-23
 pinned: true
 tags: [music]
 ---
@@ -18,6 +19,9 @@ tags: [music]
 </div>
 
 ## Highlights
+
+### [Act Like Your Title - Rocket](https://music.apple.com/album/act-like-your-title/1817135193?i=1817135555)
+I really like the lil guitar riff at the end of this one.
 
 ### [Taxes - Geese](https://music.apple.com/album/taxes/1818548779?i=1818549167)
 
