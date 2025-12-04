@@ -25,9 +25,16 @@ I wanted something that made it faster to save highlights, simpler to categorize
 
 So, I started learning iOS development and building what I was calling 'Breadcrumbs.' Pretty quickly, I realized that *this* was the way I wanted to build a library of highlights over my lifetime.
 
-That was in 2021. **Today, you can [download Clew for free on the App Store](https://apps.apple.com/app/clew-highlights-and-notes/id6477902274){:target="_blank"}.**
+That was in 2021. Been working on this for 4+ years.
+
+**Today, you can [download Clew for free on the App Store](https://apps.apple.com/app/clew-highlights-and-notes/id6477902274){:target="_blank"}.**
 
 ## What Is Clew?
+
+<picture>
+  <source media="(min-width: 601px)" srcset="/assets/images/clew-i-built-an-iOS-app/highlight-detail-and-book-detail-view-in-clew.webp">
+  <img src="/assets/images/clew-i-built-an-iOS-app/clew-highlight-detail-dark-crying-lot-49.webp" alt="Clew app showing highlight detail view" style="max-height: 400px; display: block; margin: 0 auto;">
+</picture>
 
 A **[commonplace book](https://onlineexhibits.library.yale.edu/s/not-reading/page/commonplace-book){:target="_blank"}** is what used to be a physical notebook that creative people used to save passages from books, poems, correspondence, etc. Things that inspired them, that made them laugh or cry, that they'd like to reference in future work.
 
@@ -41,11 +48,6 @@ It's all of those things, I guess, but at its heart, it's a modern commonplace b
 
 ### What Is _a_ "Clew?"
 Want to know the meaning behind the name? Download the app and go to the About section in Settings to find out! (You *could* look it up. But it's more fun if you don't.)
-
-<picture>
-  <source media="(min-width: 601px)" srcset="/assets/images/clew-i-built-an-iOS-app/highlight-detail-and-book-detail-view-in-clew.webp">
-  <img src="/assets/images/clew-i-built-an-iOS-app/clew-highlight-detail-dark-crying-lot-49.webp" alt="Clew app showing highlight detail view" style="max-height: 400px; display: block; margin: 0 auto;">
-</picture>
 
 ## Why Clew Is Better
 
@@ -90,18 +92,20 @@ Throughout the day, you'll get glimpses of past highlights you've saved. Maybe y
 
 At the time of writing, Clew is already on version 1.3, and it's been available on the App Store since April. But that was more of a soft launch.
 
-Now, it's showtime.
-
 Since then, I've polished all the rough edges and added significant new features: view customizations, AI tag suggestions, support for songs in addition to books and websites, and more.
 
-It's only going to get better from here. I'm talking support for movies and TV series, podcasts, and audiobooks. I'm talking fun sharing features, like gorgeous styled highlights with images for social media stories.
+Now, it's showtime.
+
+And it's only going to get better from here. I'm talking support for movies and TV series, podcasts, and audiobooks. I'm talking fun social features, like gorgeous shareable highlight images for your feeds and stories.
 
 For a more complete rundown of what I'm working on, check out the [roadmap on the Clew website](https://getclew.com/roadmap/){:target="_blank"}.
 
-If you like the app, let me know! And if there's a feature that you'd love to see, send over your idea and I'll see what I can do. 📱
+If you like the app, let me know! And if there's a feature that you'd love to see (or a bug you spot), [send me an email](mailto:help@getclew.com) and I'll see what I can do. 📱
 
 {% comment %}
-And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}).
+Put this in the "I started learning..." line in the intro:
 
-It might be both a lot harder and a lot easier than you'd think...
+> And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}).
+
+> It might be both a lot harder and a lot easier than you'd think...
 {% endcomment %}
