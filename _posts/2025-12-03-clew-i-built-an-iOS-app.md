@@ -100,6 +100,6 @@ For a more complete rundown of what I'm working on, check out the [roadmap on th
 
 If you like the app, let me know! And if there's a feature that you'd love to see, send over your idea and I'll see what I can do. 📱
 
-And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}).
+<!-- And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}). -->
 
-It might be both a lot harder and a lot easier than you'd think...
+<!-- It might be both a lot harder and a lot easier than you'd think... -->
