@@ -6,7 +6,7 @@ description: I wanted a better way to write margin notes and save highlights fro
 author: Tommy Twardzik
 pinned: true
 tags: [programming, technology, project]
-image: /assets/images/clew-i-built-an-iOS-app/highlight-detail-and-book-detail-view-in-clew.webp
+image: /assets/images/clew-i-built-an-iOS-app/clew-highlights-app-screenshot-gallery-dark.webp
 ---
 
 It started when I went back to reading mostly paper books after years of trying ebooks. On paper, I'd underline passages and write margin notes, then finish the book, close it, and likely never see those highlights or notes again.

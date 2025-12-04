@@ -45,7 +45,7 @@
 /* Base styles */
 body {
   font-family: var(--font-serif);
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
   color: var(--color-text);
   background-color: var(--color-background);
@@ -469,16 +469,9 @@ th {
 }
 
 .post-hero {
-  margin: 0 0 var(--space-l) 0;
+  margin-bottom: var(--space-l);
   height: 400px;
   overflow: hidden;
-  margin-bottom: var(--space-l);
-}
-
-.post-hero picture {
-  display: block;
-  width: 100%;
-  height: 100%;
 }
 
 .post-hero img {
