@@ -2,7 +2,7 @@
 layout: post
 date: 2025-12-03 19:10
 title: I Built an iOS App&#58; Introducing Clew
-description: I wanted a better way to write margin notes and save highlights from stories, articles, and songs. So, I created Clew.
+description: I wanted a better way to write margin notes and save highlights from stories, articles, songs, and more. So, I created Clew.
 author: Tommy Twardzik
 pinned: true
 tags: [programming, technology, project]
