@@ -2,7 +2,7 @@
 layout: post
 date: 2025-12-03 19:10
 title: I Built an iOS App&#58; Introducing Clew
-description: A story about why I learned software development and what makes Clew special.
+description: I wanted a better way to write margin notes and save highlights from stories, articles, and songs. So, I created Clew.
 author: Tommy Twardzik
 pinned: true
 tags: [programming, technology, project]
