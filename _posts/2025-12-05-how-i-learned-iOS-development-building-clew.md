@@ -72,11 +72,11 @@ Here's what my process looked like:
 5. Do another web search: "How to change the default height of a TextEditor in SwiftUI."
 6. Read another article or watch another video about changing the size and probably a dozen other characteristics of a SwiftUI TextBox (or, in many cases, find out that what I want is very difficult/nearly impossible without lots of custom, hacky code).
 7. Try to implement the relevant parts of the article/video and see that it's still not doing quite what I want.
-5. Also start seeing errors pop up because I've written something incorrectly or broken something else.
-6. Search the web for how to fix these various errors and continue figuring out how to get the text box just right. (Remember that this is one text box in the notes section of one kind of detail view in the app.)
-7. Later---many hours later---finally get the app to build successfully (with no errors) and test the text box and... it works!
-8. Notice that the keyboard hides a lot of the view while the user is typing, and there's no way to hide the keyboard when they're done. Decide to add a button right about the keyboard to hide it.
-9. Search the web: "How to add a button above the keyboard in SwiftUI"...
+8. Also start seeing errors pop up because I've written something incorrectly or broken something else.
+9. Search the web for how to fix these various errors and continue figuring out how to get the text box just right. (Remember that this is one text box in the notes section of one kind of detail view in the app.)
+10. Later---many hours later---finally get the app to build successfully (with no errors) and test the text box and... it works!
+11. Notice that the keyboard hides a lot of the view while the user is typing, and there's no way to hide the keyboard when they're done. Decide to add a button right above the keyboard to hide it.
+12. Search the web: "How to add a button above the keyboard in SwiftUI"...
 
 And so on...
 
@@ -86,7 +86,7 @@ And what's fun is that, as I've become comfortable with these fundamentals, I've
 
 Thus, the process has remained pretty much the same. It's incredibly frustrating and incredibly satisfying.
 
-## Resource for Learning iOS Software Development
+## Resources for Learning iOS Software Development
 
 If you're interested in learning to build apps for iPhones, iPads, and Macs, these are some of my absolute favorite resources that I continue to go back to as I build new features:
 
@@ -96,7 +96,7 @@ If you're interested in learning to build apps for iPhones, iPads, and Macs, the
 4. [Natalia Panferova at Nil Coalescing][nat]
 5. [Kilo Loco][kilo]
 6. [Sean Allen][sean]
-5. [CodeWithChris][chris]
+7. [CodeWithChris][chris]
 
 For higher level discussions about iOS app development, the recently concluded [Under the Radar podcast](https://www.relay.fm/radar) is incredible.
 

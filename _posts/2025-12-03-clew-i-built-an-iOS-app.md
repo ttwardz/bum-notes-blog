@@ -8,9 +8,9 @@ pinned: true
 tags: [programming, technology, project]
 ---
 
-It started when I went back to mostly reading paper books after years of trying Kindles and the iPhone's Books app. In paper books, I'd underline passages and write margin notes, and then I'd finish the book, close it, and likely never see those highlights or notes again.
+It started when I went back to reading mostly paper books after years of trying ebooks. On paper, I'd underline passages and write margin notes, then finish the book, close it, and likely never see those highlights or notes again.
 
-When I was an English major reading three books a week, it was easy to remember those notes and passages because I was using them in discussions and essays every day, referencing them alongside other works and making connections all the time.
+When I was an English major reading three books a week, it was easy to remember those notes and passages because I was using them in discussions and essays every day, referencing them alongside other works, and making connections all the time.
 
 I wanted that kind of experience---creating and discovering links across books, genres, centuries, and even between books and films, songs, poems, and more.
 
@@ -68,7 +68,7 @@ In the old days of paper commonplace books, people had to set up their organizat
 
 In Clew, you simply add tags to your highlights. You come up with the tags as you go, so you don't have to plan anything or stick to one organization style. And it's easy to go back and add new tags to old highlights.
 
-You can use tags to like "funny" and "inspiring" to connect highlights by themes. Then, you can use the "inspiring" tag in a home screen widget to show sparks of motivation throughout the day.
+You can use tags like "funny" and "inspiring" to connect highlights by themes. Then, you can use the "inspiring" tag in a home screen widget to show sparks of motivation throughout the day.
 
 You can also browse collections by source or author. And, soon, you'll be able to create custom collections based on tags, dates, and other characteristics.
 
@@ -100,6 +100,8 @@ For a more complete rundown of what I'm working on, check out the [roadmap on th
 
 If you like the app, let me know! And if there's a feature that you'd love to see, send over your idea and I'll see what I can do. 📱
 
-<!-- And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}). -->
+{% comment %}
+And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}).
 
-<!-- It might be both a lot harder and a lot easier than you'd think... -->
+It might be both a lot harder and a lot easier than you'd think...
+{% endcomment %}
