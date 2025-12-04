@@ -662,6 +662,14 @@ th {
   margin-bottom: var(--space-l);
 }
 
+.latest-posts .post-card {
+  padding-top: var(--space-m);
+}
+
+.latest-posts .post-card .post-title {
+  margin-top: 0.25rem;
+}
+
 .journal-card {
   border: 1px solid var(--color-border);
   border-radius: 8px;
