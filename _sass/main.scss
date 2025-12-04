@@ -475,6 +475,12 @@ th {
   margin-bottom: var(--space-l);
 }
 
+.post-hero picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .post-hero img {
   width: 100%;
   height: 100%;
@@ -503,6 +509,12 @@ th {
 .post-content {
   font-size: 1.1rem;
   line-height: 1.7;
+}
+
+.post-content img,
+.post-content picture {
+  margin: var(--space-l) 0;
+  display: block;
 }
 
 .post-content h2 {

@@ -6,6 +6,7 @@ description: A story about why I learned software development and what makes Cle
 author: Tommy Twardzik
 pinned: true
 tags: [programming, technology, project]
+image: /assets/images/clew-i-built-an-iOS-app/highlight-detail-and-book-detail-view-in-clew.webp
 ---
 
 It started when I went back to reading mostly paper books after years of trying ebooks. On paper, I'd underline passages and write margin notes, then finish the book, close it, and likely never see those highlights or notes again.
@@ -24,11 +25,11 @@ I wanted something that made it faster to save highlights, simpler to categorize
 
 So, I started learning iOS development and building what I was calling 'Breadcrumbs.' Pretty quickly, I realized that *this* was the way I wanted to build a library of highlights over my lifetime.
 
-That was in 2021. **Today, you can [download Clew for free on the App Store](https://apps.apple.com/app/clew-highlights-and-notes/id6477902274).**
+That was in 2021. **Today, you can [download Clew for free on the App Store](https://apps.apple.com/app/clew-highlights-and-notes/id6477902274){:target="_blank"}.**
 
 ## What Is Clew?
 
-A **[commonplace book](https://onlineexhibits.library.yale.edu/s/not-reading/page/commonplace-book)** is what used to be a physical notebook that creative people used to save passages from books, poems, correspondence, etc. Things that inspired them, that made them laugh or cry, that they'd like to reference in future work.
+A **[commonplace book](https://onlineexhibits.library.yale.edu/s/not-reading/page/commonplace-book){:target="_blank"}** is what used to be a physical notebook that creative people used to save passages from books, poems, correspondence, etc. Things that inspired them, that made them laugh or cry, that they'd like to reference in future work.
 
 It hit me on Friday, September 19, 2025 at 10:47 p.m., that this is the fundamental idea behind Clew. I know this because I was reading Pynchon's *The Crying of Lot 49* when I underlined this passage on page 129 of the book and saved it as a highlight in Clew:
 
@@ -45,7 +46,6 @@ Want to know the meaning behind the name? Download the app and go to the About s
   <source media="(min-width: 601px)" srcset="/assets/images/clew-i-built-an-iOS-app/highlight-detail-and-book-detail-view-in-clew.webp">
   <img src="/assets/images/clew-i-built-an-iOS-app/clew-highlight-detail-dark-crying-lot-49.webp" alt="Clew app showing highlight detail view" style="max-height: 400px; display: block; margin: 0 auto;">
 </picture>
-
 
 ## Why Clew Is Better
 
@@ -96,7 +96,7 @@ Since then, I've polished all the rough edges and added significant new features
 
 It's only going to get better from here. I'm talking support for movies and TV series, podcasts, and audiobooks. I'm talking fun sharing features, like gorgeous styled highlights with images for social media stories.
 
-For a more complete rundown of what I'm working on, check out the [roadmap on the Clew website](https://getclew.com/roadmap/).
+For a more complete rundown of what I'm working on, check out the [roadmap on the Clew website](https://getclew.com/roadmap/){:target="_blank"}.
 
 If you like the app, let me know! And if there's a feature that you'd love to see, send over your idea and I'll see what I can do. 📱
 

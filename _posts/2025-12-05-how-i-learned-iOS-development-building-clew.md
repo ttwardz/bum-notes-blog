@@ -90,17 +90,17 @@ Thus, the process has remained pretty much the same. It's incredibly frustrating
 
 If you're interested in learning to build apps for iPhones, iPads, and Macs, these are some of my absolute favorite resources that I continue to go back to as I build new features:
 
-1. [Hacking with Swift][hws]
-2. [Swift by Sundell][sundell]
-3. [Swift with Majid][majid]
-4. [Natalia Panferova at Nil Coalescing][nat]
-5. [Kilo Loco][kilo]
-6. [Sean Allen][sean]
-7. [CodeWithChris][chris]
+1. [Hacking with Swift][hws]{:target="_blank"}
+2. [Swift by Sundell][sundell]{:target="_blank"}
+3. [Swift with Majid][majid]{:target="_blank"}
+4. [Natalia Panferova at Nil Coalescing][nat]{:target="_blank"}
+5. [Kilo Loco][kilo]{:target="_blank"}
+6. [Sean Allen][sean]{:target="_blank"}
+7. [CodeWithChris][chris]{:target="_blank"}
 
-For higher level discussions about iOS app development, the recently concluded [Under the Radar podcast](https://www.relay.fm/radar) is incredible.
+For higher level discussions about iOS app development, the recently concluded [Under the Radar podcast](https://www.relay.fm/radar){:target="_blank"} is incredible.
 
-If you'd like to follow my development of Clew, check out the [Clew website](https://getclew.com/updates) for updates and the roadmap. 📱
+If you'd like to follow my development of Clew, check out the [Clew website](https://getclew.com/updates){:target="_blank"} for updates and the roadmap. 📱
 
 
 [hws]: https://www.hackingwithswift.com/
