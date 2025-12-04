@@ -370,14 +370,23 @@ ol li::marker {
 .image-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1rem; /* optional: space between images */
+  gap: 1rem;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 .image-grid img {
   width: 100%;
   height: auto;
   display: block;
-  object-fit: contain; /* ensures the whole image is visible, may add letterboxing */
+  object-fit: contain;
+  max-height: 400px;
+}
+
+@media (max-width: 600px) {
+  .image-grid img {
+    max-height: none;
+  }
 }
 
 .tag {
@@ -449,8 +458,14 @@ th {
 
 /* Single post */
 .post {
-  max-width: 800px;
+  max-width: 680px;
   margin: 0 auto;
+}
+
+@media (min-width: 601px) {
+  .post {
+    font-size: 16px;
+  }
 }
 
 .post-hero {
@@ -521,7 +536,9 @@ th {
 
 .post-content pre {
   padding: var(--space-m);
+  margin: var(--space-l) 0;
   overflow-x: auto;
+  font-size: 0.8rem;
 }
 
 .post-content pre code {
