@@ -23,7 +23,7 @@ I wanted to build something better.
 
 I wanted something that made it faster to save highlights, simpler to categorize them, and more fun to collect and explore them. I wanted it to work with no fuss on all my devices (Apple devices, at least for now...).
 
-So, I started learning iOS development and building what I was calling 'Breadcrumbs.' Pretty quickly, I realized that *this* was the way I wanted to build a library of highlights over my lifetime.
+So, [I started learning iOS development and building an app]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}), which I was calling 'Breadcrumbs.' Pretty quickly, I realized that *this* was the way I wanted to build a library of highlights over my lifetime.
 
 That was in 2021. Been working on this for 4+ years.
 
@@ -101,11 +101,3 @@ And it's only going to get better from here. I'm talking support for movies and 
 For a more complete rundown of what I'm working on, check out the [roadmap on the Clew website](https://getclew.com/roadmap/){:target="_blank"}.
 
 If you like the app, let me know! And if there's a feature that you'd love to see (or a bug you spot), [send me an email](mailto:help@getclew.com) and I'll see what I can do. 📱
-
-{% comment %}
-Put this in the "I started learning..." line in the intro:
-
-> And if you want to know more about how I built the app, check out my post: [How I Learned iOS Software Development by Building an App]({% post_url 2025-12-05-how-i-learned-iOS-development-building-clew %}).
-
-> It might be both a lot harder and a lot easier than you'd think...
-{% endcomment %}
