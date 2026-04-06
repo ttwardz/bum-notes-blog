@@ -21,7 +21,7 @@ tags: [music]
 ## Highlights
 
 ### [Squish - Gretel](https://music.apple.com/album/squish/1868663143?i=1868663146)
-Oh the way this song bursts open after the first verse and then builds and builds. It fills me with energy and joy and longing like a deep breath of summer air leaves you ==thrilled/flushed== and wanting more.
+Oh the way this song bursts open after the first verse and then builds and builds. It fills me with energy and joy and longing like a deep breath of summer air leaves you thrilled and wanting more.
 
 ### [Anywhere - Ratboys](https://music.apple.com/album/anywhere/1844710034?i=1844710052)
 Short and sweet with a major hook. Extremely singable. Great guitar riff, _great_ drums. Julia Steiner basically laughs in this one and it's awesome.
