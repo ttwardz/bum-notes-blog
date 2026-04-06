@@ -9,6 +9,8 @@ tags: [programming, technology, project]
 image: /assets/images/clew-i-built-an-iOS-app/clew-highlights-app-screenshot-gallery-dark.webp
 ---
 
+
+
 It started when I went back to reading mostly paper books after years of trying ebooks. On paper, I'd underline passages and write margin notes, then finish the book, close it, and likely never see those highlights or notes again.
 
 When I was an English major reading three books a week, it was easy to remember those notes and passages because I was using them in discussions and essays every day, referencing them alongside other works, and making connections all the time.
