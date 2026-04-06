@@ -61,8 +61,8 @@ For a couple songs, she stood there and played and sang along with the backing t
 "Talk Talk" is a perfect example of the catchy, shimmering melodies and punctuating synths.
 
 Songs to start with:
-- Talk Talk (Apple Music | [Spotify](https://open.spotify.com/track/4ob4h8LBUxRrdy1UmJFU4j?si=b85cc864e5cd4e00))
-- Imposter (Apple Music | [Spotify](https://open.spotify.com/track/75RFwKV6wjJiCQmuoUY69f?si=0ffe69955b16492b))
+- Talk Talk (Apple Music | [Spotify](https://open.spotify.com/track/4ob4h8LBUxRrdy1UmJFU4j?si=b85cc864e5cd4e00){:target="_blank"})
+- Imposter (Apple Music | [Spotify](https://open.spotify.com/track/75RFwKV6wjJiCQmuoUY69f?si=0ffe69955b16492b){:target="_blank"})
 
 
 

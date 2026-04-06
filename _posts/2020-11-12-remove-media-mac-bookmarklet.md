@@ -8,7 +8,7 @@ date: 2020-11-12 12:00
 <!-- description: Use a little JavaScript to create a simple bookmarklet that removes unsightly or distracting media from webpages. -->
 
 ![A silver MacBook opening its lid with ambient purple light.](/assets/images/silver-macbook-opening-lid.jpg)
-_Image: [Dmitry Chernyshov][dmitrychernyshov]_
+_Image: [Dmitry Chernyshov][dmitrychernyshov]{:target="_blank"}_
 
 I already wrote about [how to remove ugly media on iOS using Shortcuts][shortcuts-article]. There's another way to accomplish this that works on a Mac, too!
 
@@ -22,9 +22,9 @@ Bonus: You can use this method right on iPhones and iPads, too!
 
 ## Configuring the Bookmarklet
 
-It was fairly simple to reuse the JavaScript from [my Remove Media Shortcut][shortcut] for the bookmarklet but I needed to employ a few tricks to make it work.
+It was fairly simple to reuse the JavaScript from [my Remove Media Shortcut][shortcut]{:target="_blank"} for the bookmarklet but I needed to employ a few tricks to make it work.
 
-These I learned by example, looking at another bookmarklet—**[View Page Source][source-bookmarklet]**—I've been using on my iPad for many months in lieu of the Mac's **Command + Option + U** inspector.
+These I learned by example, looking at another bookmarklet—**[View Page Source][source-bookmarklet]{:target="_blank"}**—I've been using on my iPad for many months in lieu of the Mac's **Command + Option + U** inspector.
 
 ### The \`javascript:()` Wrapper
 
@@ -52,7 +52,7 @@ Within those bookends you insert our JavaScript but the code has to be _URL enco
 
 Don't do this by hand.
 
-On an iPad, you can use **[this simple shortcut][encode-sc]** to URL-encode any text, including our JavaScript.
+On an iPad, you can use **[this simple shortcut][encode-sc]{:target="_blank"}** to URL-encode any text, including our JavaScript.
 
 Once it's encoded, the browser will be able to open it like a URL. Instead of displaying a webpage, it'll run the code.
 

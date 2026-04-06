@@ -92,7 +92,7 @@ I’m guessing it’s because I’d already chosen the lesser Disney+ (solo) sub
 
 I can cancel the subscription through Verizon and just sign up for the bundle through Disney. Why not. Back to Disney to try to figure out once and for all what bundle I’d actually need and how it compares to what I’m paying now.
 
-This is where I wind up: a truly absurd chart on [Disney support page about plans and pricing][chart] with enough brand name variations to give me nightmares.
+This is where I wind up: a truly absurd chart on [Disney support page about plans and pricing][chart]{:target="_blank"} with enough brand name variations to give me nightmares.
 
 <figure>
   <img src="/assets/images/live-sports/enormous-chart-disney-plans-bundles.png" alt="Many brand names---Disney+, ESPN Select, Disney+ Premium, ESPN Select Bundle Legacy, ESPN Unlimited Bundle, ESPN Unlimited Bundle Premium...">
@@ -169,7 +169,7 @@ I'm not even going to compare streaming TV to buying old-fashioned cable package
 
 When I first subscribed to Sling it was $25 a month and soccer was still on NBC and Fox Sports, so it was a great deal. That wasn't that long ago. Now it's all over the place, and I have five different subscriptions for one sport plus a whole new bundle for football.
 
-Maybe instead I should just [blow up my TV][prine].
+Maybe instead I should just [blow up my TV][prine]{:target="_blank"}.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OLSGLOLsuTo?si=bV2ywKBKjE8rqzFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -197,7 +197,7 @@ My final candidates.
 </div>
 
 
-[^naming]: In a [very HBO move](https://www.yahoo.com/entertainment/tv/articles/why-hbo-rebranding-everything-190456943.html), ESPN has gone from ESPN to ESPN+ and back to ESPN.
+[^naming]: In a [very HBO move](https://www.yahoo.com/entertainment/tv/articles/why-hbo-rebranding-everything-190456943.html){:target="_blank"}, ESPN has gone from ESPN to ESPN+ and back to ESPN.
 [^hulu]: I used to get Hulu through Spotify?? Now I watch Hulu only for FX shows but I watch them in Disney+ because the Hulu app is fiery garbage.
 [^ai]: Verizon’s page is presenting AI-generated summaries of the answers to its FAQs are you kidding me.
 

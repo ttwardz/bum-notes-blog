@@ -13,12 +13,12 @@ date: 2019-09-25 12:00
 
 I wrote this piece on a combination of 1) a MacBook Pro (late–2012) and 2) an iPad Pro (3rd Gen) using a combination of:
 
-1. [HelloEdit](https://helloedit.raphaelkabo.com/)
-2. [iA Writer](ia.net)
+1. [HelloEdit](https://helloedit.raphaelkabo.com/){:target="_blank"}
+2. [iA Writer](ia.net){:target="_blank"}
 3. Apple Notes
 4. and more…
 
-I discovered HelloEdit via a post on [512pixels.net](https://512pixels.net), the very site which, it turns out, [inspired the creation of this tool](https://512pixels.net/2011/05/markdown-new-word51/) with an article eight years ago. <span class="fn" id="1"><a href="#1-f">1</a></span>
+I discovered HelloEdit via a post on [512pixels.net](https://512pixels.net){:target="_blank"}, the very site which, it turns out, [inspired the creation of this tool](https://512pixels.net/2011/05/markdown-new-word51/){:target="_blank"} with an article eight years ago. <span class="fn" id="1"><a href="#1-f">1</a></span>
 
 I’ve never used Word 5.1 or AppleWorks. The earliest memory of writing I have is on the family’s blue iMac when I was five or six or seven.
 
@@ -36,13 +36,13 @@ Discovering HelloEdit and reading about the simple origins of text-editing to wh
 
 > “They [word processors] started trying to help—and helping a writer while he or she is writing is impossible.” <span class="fn" id="2"><a href="#2-f">2</a></span>
 
-I suppose TextEdit and Notepad and Apple Notes and the deceased [Plain Text](https://433labs.com/) on iOS were my first experiences with pure-text editing. However, the revelation came when I downloaded [iA Writer](ia.net) on my iPad. That was when I discovered Markdown.
+I suppose TextEdit and Notepad and Apple Notes and the deceased [Plain Text](https://433labs.com/){:target="_blank"} on iOS were my first experiences with pure-text editing. However, the revelation came when I downloaded [iA Writer](ia.net){:target="_blank"} on my iPad. That was when I discovered Markdown.
 
 I’d read Daring Fireball through its RSS feed but I’d never visited the website long enough to notice John Gruber’s Markdown project. It’s the gilding for the kind of plain text writing I’d been doing in short bursts in the Notes app or TextEdit, rendered with simple, clear formatting.
 
 Markdown is the cure for my incessant urge to format and reformat text more than I write it. It’s incredibly productive. And I enjoy the uniform beauty of watching my progress as I build a sturdy stack of paragraph blocks. Markdown makes plain text beautiful, which makes writing at length in plain text truly pleasant.
 
-I’ve grown to like using fixed-width fonts (to which I was [turned on by iA Writer, mainly](https://ia.net/writer/blog/a-typographic-christmas)), especially. [Full justification is ugly][newyorker]. But rectangular chunks of fixed-width text make me feel accomplished—like I’ve stacked heavy weights at the gym or built a physical object with tools and sweat.
+I’ve grown to like using fixed-width fonts (to which I was [turned on by iA Writer, mainly](https://ia.net/writer/blog/a-typographic-christmas){:target="_blank"}), especially. [Full justification is ugly][newyorker]{:target="_blank"}. But rectangular chunks of fixed-width text make me feel accomplished—like I’ve stacked heavy weights at the gym or built a physical object with tools and sweat.
 
 That old quote about writing being as simple as sitting over a typewriter to bleed? Writing in a word processor feels more like sitting down at a table scattered with various styles of paper, pens, pencils and erasers and having to sort through it all to choose the right combination.
 
@@ -70,14 +70,14 @@ But _writing_ writing–it’s not about page count. It’s not about counting
 
 It also gives you the flexibility to continue the work elsewhere, when a more complex or specific environment suits it. Plain text is the tool that you can take with you anywhere.
 
-iA Writer and other plain text editors–the incredible [Drafts](https://getdrafts.com/), for example–provide powerful exporting options. These apps recognize that they are, by definition, merely the starting places for the work. When the writing is finished, the words move on to their destinations: to word processors, to email clients, to HTML files.
+iA Writer and other plain text editors–the incredible [Drafts](https://getdrafts.com/){:target="_blank"}, for example–provide powerful exporting options. These apps recognize that they are, by definition, merely the starting places for the work. When the writing is finished, the words move on to their destinations: to word processors, to email clients, to HTML files.
 
 The great achievement of the writer is to have written. No matter the allure of publication or recognition, the writer’s ultimate triumph and highest joy comes from the completion of the writing. When it is finished, it is finished. The word processor blinks at an unfortunate, oddly-shaped, two-fifths full final page. The plain text editor does not judge but presents the completed structure of words, ready for what’s next.
 
 -----
 1. <span id="1-f"></span>HelloEdit revealed itself to me at just the right time: my job had recently "upgraded" me from my personal MacBook Pro to a one-year-newer company MBP that had none of my well-oiled workflows or favorite apps. (But it has that extra click in the trackpad for whatever that’s for!) // Suddenly, instead of writing in iA Writer and exporting, I had Word 2011 (2011!). That’s a good way to kill a writer’s productivity for a few days while they search for alternatives. So I’m quite thankful for HelloEdit’s perfect simplicity and that I don’t have to download anything or sign up to use it. [⤴️](#1)
 
-2. <span id="2-f"></span>[https://512pixels.net/2011/05/markdown-new-word51/][512] [⤴️](#2)
+2. <span id="2-f"></span>[https://512pixels.net/2011/05/markdown-new-word51/][512]{:target="_blank"} [⤴️](#2)
 
 3. <span id="3-f"></span>Page counts are an artifact of the past, like word counts for print magazines or writing a “column”. Teachers, please: we understand the need for some kind of metric that requires reluctant students to write more than a few sentences. But do the right thing and teach students to expand their pieces by asking more questions, not by fluffing up the easy answers. (Teaching is difficult, and teachers are due much respect. But for much of my childhood, even the good English teachers failed to teach most of us to write more by engaging more deeply with the subject.) [⤴️](#3)
 
