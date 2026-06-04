@@ -2,7 +2,7 @@
 layout: post
 title:  "Favorite Music 2025 Edition"
 author: Tommy Twardzik
-description: The best sounds I heard in 2024, ranked.
+description: The best sounds I heard in 2025, ranked.
 date: 2026-01-05 12:30:34 -0400
 tags: [music]
 published: false
@@ -13,65 +13,81 @@ published: false
 
 ## The List 💿
 
-30\.
+38\. **Upwards - Ela Minus**
 
-29\.
+37\. **Blue & Gold - Madra Salach**
 
-28\.
+36\. **Best Laid Plans - The Beths**
 
-27\.
+35\. **GTA Online - UNIVERSITY**
 
-26\.
+34\. **Avalanche - Grace Ives**
 
-25\.
+33\. **Til My Heart Stops - The Beths**
 
-24\.
+32\. **catch these fists - Wet Leg** 
 
-23\.
+31\. **All Hail - Prostitute** 
 
-22\.
+30\. **Blue Mountains - Subsonic Eye**
 
-21\.
+29\. **Hideaway - Mallrat**
 
-20\.
+28\. **No Cops In Heaven - Split System**
 
-19\.
+27\. **American Porn - Die Spitz**
 
-18\.
+26\. **Head Empty Blues - Ekko Astral**
 
-17\.
+25\. **Bittersweet - Cliffords**
 
-16\.
+24\. **Roundabout - The Beths**
 
-15\.
+23\. **Illegal - Pink Pantheress**
 
-14\.
+22\. **New Best Thing - Home Counties**
 
-13\.
+21\. **Cobra - Geese**
 
-12\.
+20\. **Guy Fawkes Tesco Dissociation - jasmine.4.t**
 
-11\.
+19\. **R4DR4M - SKORTS** - 
 
-10\.
+18\. **Well I Know You’re Shy - Horsegirl** - 
 
-9\.
+17\. **Bitter Everyday - Wednesday** - 
 
-8\.
+16\. **Act Like Your Title - Rocket** - love the riff
 
-7\.
+15\. **100 Horses - Geese** - “there is only dance music in times of war”
 
-6\.
+14\. **Julie - Horsegirl** - my intro to Horsegirl
 
-5\.
+13\. **Trace - Crave** - 
 
-4\.
+12\. **Feel Something - Madi Diaz** - 
 
-3\.
+11\. **John Mulaney - Wetsuit** - 
 
-2\.
+10\. **Humdrum - Home Counties** - 
 
-1\.
+9\. **CRUISING TO SELF SOOTHE - Ecca Vandal** - 
+
+8\. **Switch Over - Horsegirl** - 
+
+7\. **Idiot Box - Sharon Van Etten & The Attachment Theory** - 
+
+6\. **Elderberry Wine - Wednesday** - 
+
+5\. **Straight Line Was a Lie - The Beths** - 
+
+4\. **2468 - Horsegirl** - 
+
+3\. **Taxes - Geese** - 
+
+2\. **Townies - Wednesday** - 
+
+1\. **Metal - The Beths** - 
 
 
 <div>
