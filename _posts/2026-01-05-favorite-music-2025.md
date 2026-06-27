@@ -12,43 +12,45 @@ tags: [music]
 
 ## The List 💿
 
-37\. **No Cops In Heaven - Split System**
+38\. **No Cops In Heaven - Split System**
 
-36\. **Upwards - Ela Minus**
+37\. **Upwards - Ela Minus**
 
-35\. **Head Empty Blues - Ekko Astral** - "Is it Bon Iver / or Bon Iver / I don't care"
+36\. **Head Empty Blues - Ekko Astral** - "Is it Bon Iver / or Bon Iver / I don't care"
 
-34\. **Blue & Gold - Madra Salach** - this one stopped me in my tracks
+35\. **Blue & Gold - Madra Salach** - this one stopped me in my tracks
 
-33\. **GTA Online - UNIVERSITY** - noise noise loud fuzzy noise
+34\. **GTA Online - UNIVERSITY** - noise noise loud fuzzy noise
 
-32\. **Trace - Crave**
+33\. **Trace - Crave**
 
-31\. **Avalanche - Grace Ives** - big beat. Enya strings. love the humming
+32\. **Avalanche - Grace Ives** - big beat. Enya strings. love the humming
+
+31\. **Blue Mountains - Subsonic Eye**
 
 30\. **Til My Heart Stops - The Beths** - At Brooklyn Paramount they played this and “Mother, Pray For Me” back to back and I cried. a melancholy song about love and life and ......
 
-29\. **Blue Mountains - Subsonic Eye**
+29\. **Hideaway - Mallrat** 
 
-28\. **Hideaway - Mallrat** 
+28\. **American Porn - Die Spitz** - ugly angry punk
 
-27\. **American Porn - Die Spitz** - ugly angry punk
+27\. **catch these fists - Wet Leg**
 
-26\. **catch these fists - Wet Leg**
+26\. **Bittersweet - Cliffords** - I dig the rhythm.
 
-25\. **Bittersweet - Cliffords** - I dig the rhythm.
+25\. **Roundabout - The Beths** - “I loved you / screaming through the roundabout” so sweet
 
-24\. **Roundabout - The Beths** - “I loved you / screaming through the roundabout” so sweet
+24\. **Illegal - PinkPantheress** - “you were recommended to me by some people” has such a good cadence
 
-23\. **Illegal - PinkPantheress** - “you were recommended to me by some people” has such a good cadence
+23\. **New Best Thing - Home Counties** - gotta dance to this
 
-22\. **New Best Thing - Home Counties** - gotta dance to this
+22\. **Act Like Your Title - Rocket** - love the riff
 
-21\. **Act Like Your Title - Rocket** - love the riff
+21\. **Cobra - Geese** - everybody in the world knows the words to this song now which is a twist I did not expect for a weird but very pretty little song
 
-20\. **Cobra - Geese** - everybody in the world knows the words to this song now which is a twist I did not expect for a weird but very pretty little song
+20\. **Bitter Everyday - Wednesday**
 
-19\. **Bitter Everyday - Wednesday**
+19\. **This is the Killer Speaking - The Last Dinner Party** - banger. “I hope my televisión appearance drives you fuckin’ maddddddd” slaps
 
 18\. **Julie - Horsegirl**
 
