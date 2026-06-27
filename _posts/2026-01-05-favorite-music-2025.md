@@ -3,9 +3,8 @@ layout: post
 title:  "Favorite Music 2025 Edition"
 author: Tommy Twardzik
 description: The best sounds I heard in 2025, ranked.
-date: 2026-01-05 12:30:34 -0400
+date: 2026-06-27 15:30:34 -0400
 tags: [music]
-published: false
 ---
 
 {{ page.description }}
@@ -13,81 +12,79 @@ published: false
 
 ## The List 💿
 
-38\. **Upwards - Ela Minus**
+37\. **No Cops In Heaven - Split System**
 
-37\. **Blue & Gold - Madra Salach**
+36\. **Upwards - Ela Minus**
 
-36\. **Best Laid Plans - The Beths**
+35\. **Head Empty Blues - Ekko Astral** - "Is it Bon Iver / or Bon Iver / I don't care"
 
-35\. **GTA Online - UNIVERSITY**
+34\. **Blue & Gold - Madra Salach** - this one stopped me in my tracks
 
-34\. **Avalanche - Grace Ives**
+33\. **GTA Online - UNIVERSITY** - noise noise loud fuzzy noise
 
-33\. **Til My Heart Stops - The Beths**
+32\. **Trace - Crave**
 
-32\. **catch these fists - Wet Leg** 
+31\. **Avalanche - Grace Ives** - big beat. Enya strings. love the humming
 
-31\. **All Hail - Prostitute** 
+30\. **Til My Heart Stops - The Beths** - At Brooklyn Paramount they played this and “Mother, Pray For Me” back to back and I cried. a melancholy song about love and life and ......
 
-30\. **Blue Mountains - Subsonic Eye**
+29\. **Blue Mountains - Subsonic Eye**
 
-29\. **Hideaway - Mallrat**
+28\. **Hideaway - Mallrat** 
 
-28\. **No Cops In Heaven - Split System**
+27\. **American Porn - Die Spitz** - ugly angry punk
 
-27\. **American Porn - Die Spitz**
+26\. **catch these fists - Wet Leg**
 
-26\. **Head Empty Blues - Ekko Astral**
+25\. **Bittersweet - Cliffords** - I dig the rhythm.
 
-25\. **Bittersweet - Cliffords**
+24\. **Roundabout - The Beths** - “I loved you / screaming through the roundabout” so sweet
 
-24\. **Roundabout - The Beths**
+23\. **Illegal - PinkPantheress** - “you were recommended to me by some people” has such a good cadence
 
-23\. **Illegal - Pink Pantheress**
+22\. **New Best Thing - Home Counties** - gotta dance to this
 
-22\. **New Best Thing - Home Counties**
+21\. **Act Like Your Title - Rocket** - love the riff
 
-21\. **Cobra - Geese**
+20\. **Cobra - Geese** - everybody in the world knows the words to this song now which is a twist I did not expect for a weird but very pretty little song
 
-20\. **Guy Fawkes Tesco Dissociation - jasmine.4.t**
+19\. **Bitter Everyday - Wednesday**
 
-19\. **R4DR4M - SKORTS** - 
+18\. **Julie - Horsegirl**
 
-18\. **Well I Know You’re Shy - Horsegirl** - 
+17\. **R4DR4M - SKORTS** - I still call this “Redrum” in my head. SKORTS continue to kill it.
 
-17\. **Bitter Everyday - Wednesday** - 
+16\. **Guy Fawkes Tesco Dissociation - jasmine.4.t** - wonderful folky collab track with Phoebe Bridgers. Excellent moody switch in the pre-chorus kinda part.
 
-16\. **Act Like Your Title - Rocket** - love the riff
+15\. **Best Laid Plans - The Beths** - the lil high-frets guitar strum and slide that punctuates thru this song is irresistible. The drums, the whole arrangement. The harmony on “light ray”.
 
-15\. **100 Horses - Geese** - “there is only dance music in times of war”
+14\. **Well I Know You’re Shy - Horsegirl** - the drums are a highlight throughout this album too
 
-14\. **Julie - Horsegirl** - my intro to Horsegirl
+13\. **Humdrum - Home Counties** - gotta dance
 
-13\. **Trace - Crave** - 
+12\. **100 Horses - Geese** - a line like “there is only dance music in times of war” (which goes hard af) juxtaposed with a line like “there were 100 horses dancing / maybe 124” is hilarious and I’m a fan
 
-12\. **Feel Something - Madi Diaz** - 
+11\. **Feel Something - Madi Diaz** - some expert-level songwriting
 
-11\. **John Mulaney - Wetsuit** - 
+10\. **John Mulaney - Wetsuit** - the. vocals. my. god.  
 
-10\. **Humdrum - Home Counties** - 
+9\. **CRUISING TO SELF SOOTHE - Ecca Vandal** - rips from the opening scream
 
-9\. **CRUISING TO SELF SOOTHE - Ecca Vandal** - 
+8\. **Switch Over - Horsegirl** - pared back but still layered, and just a very pleasing ending
 
-8\. **Switch Over - Horsegirl** - 
+7\. **Idiot Box - Sharon Van Etten & The Attachment Theory** - great melody
 
-7\. **Idiot Box - Sharon Van Etten & The Attachment Theory** - 
+6\. **Elderberry Wine - Wednesday** - I remain transfixed by this track
 
-6\. **Elderberry Wine - Wednesday** - 
+5\. **Straight Line Was a Lie - The Beths** - joyous music, pure and simple
 
-5\. **Straight Line Was a Lie - The Beths** - 
+4\. **2468 - Horsegirl** - dadadadadadahhhdadah. obsessed with the catchy simplicity of this album, epitomized by 2468.
 
-4\. **2468 - Horsegirl** - 
+3\. **Taxes - Geese** - lots can be said about the goofiness of Geese---which I mean as the highest compliment---but all that matters for this one is the dark-humor fun of the first half and how it blows open into the shout-along catharsis of the second half
 
-3\. **Taxes - Geese** - 
+2\. **Townies - Wednesday** - heavy heavy heavy, and that break down at the endddd. Is anybody else writing music like Karly Hartzman??
 
-2\. **Townies - Wednesday** - 
-
-1\. **Metal - The Beths** - 
+1\. **Metal - The Beths** - perfection. stunning lyrics, beautiful layers of guitar. I adore this song and this band.
 
 
 <div>
