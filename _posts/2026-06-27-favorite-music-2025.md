@@ -28,7 +28,7 @@ tags: [music]
 
 31\. **Blue Mountains - Subsonic Eye**
 
-30\. **Til My Heart Stops - The Beths** - At Brooklyn Paramount they played this and “Mother, Pray For Me” back to back and I cried. a melancholy song about love and life and ......
+30\. **Til My Heart Stops - The Beths** - At Brooklyn Paramount they played this and “Mother, Pray For Me” back to back and I cried. a melancholy song about love and life and longing
 
 29\. **Hideaway - Mallrat** 
 
