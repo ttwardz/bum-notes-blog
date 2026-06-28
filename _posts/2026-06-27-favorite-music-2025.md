@@ -42,11 +42,11 @@ tags: [music]
 
 24\. **Illegal - PinkPantheress** - “you were recommended to me by some people” has such a good cadence
 
-23\. **New Best Thing - Home Counties** - gotta dance to this
+23\. **New Best Thing - Home Counties**
 
 22\. **Act Like Your Title - Rocket** - love the riff
 
-21\. **Cobra - Geese** - everybody in the world knows the words to this song now which is a twist I did not expect for a weird but very pretty little song
+21\. **Cobra - Geese** - a weird but very pretty little song
 
 20\. **Bitter Everyday - Wednesday**
 
@@ -58,13 +58,13 @@ tags: [music]
 
 16\. **Guy Fawkes Tesco Dissociation - jasmine.4.t** - wonderful folky collab track with Phoebe Bridgers. Excellent moody switch in the pre-chorus kinda part.
 
-15\. **Best Laid Plans - The Beths** - the lil high-frets guitar strum and slide that punctuates thru this song is irresistible. The drums, the whole arrangement. The harmony on “light ray”.
+15\. **Best Laid Plans - The Beths** - the lil high-frets guitar strum and slide that punctuate thru this song is irresistible. The drums, the whole arrangement. The harmony on “light ray”.
 
-14\. **Well I Know You’re Shy - Horsegirl** - the drums are a highlight throughout this album too
+14\. **Well I Know You’re Shy - Horsegirl** - the drums are a highlight throughout this album
 
 13\. **Humdrum - Home Counties** - gotta dance
 
-12\. **100 Horses - Geese** - a line like “there is only dance music in times of war” (which goes hard af) juxtaposed with a line like “there were 100 horses dancing / maybe 124” is hilarious and I’m a fan
+12\. **100 Horses - Geese** - a line like “there is only dance music in times of war” (which goes hard af) juxtaposed with a line like “there were a hundred horses dancing / maybe a hundred twenty-four” is hilarious and I’m a fan
 
 11\. **Feel Something - Madi Diaz** - some expert-level songwriting
 
