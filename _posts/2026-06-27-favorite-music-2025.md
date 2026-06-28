@@ -56,7 +56,7 @@ tags: [music]
 
 17\. **R4DR4M - SKORTS** - I still call this “Redrum” in my head. SKORTS continue to kill it.
 
-16\. **Guy Fawkes Tesco Dissociation - jasmine.4.t** - wonderful folky collab track with Phoebe Bridgers. Excellent moody switch in the pre-chorus kinda part.
+16\. **Guy Fawkes Tesco Dissociation - jasmine.4.t** - wonderful folky collab track with Phoebe Bridgers. Excellent moody switch in the pre-chorus kinda part. The lyrical rhythm is perfect
 
 15\. **Best Laid Plans - The Beths** - the lil high-frets guitar strum and slide that punctuate thru this song is irresistible. The drums, the whole arrangement. The harmony on “light ray”.
 
