@@ -4,7 +4,7 @@ title:  "On Heavy Rotation"
 author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
 date: 2023-12-13 12:30:34 -0400
-dateUpdated: 2025-10-23
+dateUpdated: 2025-06-28
 pinned: true
 tags: [music]
 ---
@@ -19,6 +19,9 @@ tags: [music]
 </div>
 
 ## Highlights
+
+### [Leave You - Vulfmon & Jackie Evans](https://music.apple.com/album/leave-you/6769488203?i=6769488508)
+Epic mind-blowing piano. And ridiculous vocals to match.
 
 ### [Squish - Gretel](https://music.apple.com/album/squish/1868663143?i=1868663146)
 Oh the way this song bursts open after the first verse and then builds and builds. It fills me with energy and joy and longing like a deep breath of summer air leaves you thrilled and wanting more.
