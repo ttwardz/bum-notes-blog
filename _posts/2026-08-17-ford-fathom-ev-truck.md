@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-08-17 09:45
+date: 2026-08-17 10:45
 title: Ford Says That Someday It’ll Make an EV Truck Called the Fathom
 slug: ford-fathom-ev-truck
 description: Ford announces not a concept truck but the concept of a truck.
