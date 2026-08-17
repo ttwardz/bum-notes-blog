@@ -1,5 +1,6 @@
 ---
 title: 5 Exciting Artists Right Now
+slug: exciting-artists-now
 description: Who's stuck in my head, changing music, and saving rock and roll.
 author: Tommy Twardzik
 tags: [music]

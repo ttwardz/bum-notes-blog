@@ -1,5 +1,9 @@
 ---
 title: Remove Ugly Web Media with Shortcuts and JavaScript
+slug: remove-media-shortcut
+permalink: /remove-media-shortcut/
+redirect_from:
+  - /2020/10/27/remove-media-shortcut.html
 author: Tommy Twardzik
 tags: [shortcuts, programming]
 date: 2020-10-27 12:00
@@ -106,5 +110,5 @@ You'll have to allow Shortcuts to run JavaScript on the webpage. Once you tap "A
 [amp-tweet]: https://twitter.com/livbem/status/1223043752878460928?s=20
 [amp-shortcut]: https://www.icloud.com/shortcuts/46cc38e259324f7494e4c66829007edc
 [shortcut]: https://www.icloud.com/shortcuts/c68e71a5ccf74cf589859630904bd2b8
-[bookmarklet]: /blog/remove-media-bookmarklet
+[bookmarklet]: /remove-media-mac-bookmarklet/
 [francoishoang]: https://unsplash.com/@aoirostudio

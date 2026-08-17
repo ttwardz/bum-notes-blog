@@ -2,6 +2,7 @@
 layout: post
 date: 2026-06-02 11:44
 title: Backrooms (2026) The Scariest Thing in the World Is a Breaker Box
+slug: backrooms-2026-movie-notes
 description: And the best part is... you can eat them.
 author: Tommy Twardzik
 tags: [film, entertainment]

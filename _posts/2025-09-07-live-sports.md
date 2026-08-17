@@ -2,6 +2,10 @@
 layout: post
 date: 2025-09-07 20:00
 title: I Don’t Know How to Watch Live Sports Anymore
+slug: live-sports
+permalink: /live-sports/
+redirect_from:
+  - /2025/09/07/live-sports.html
 description: Join me as I try to find out who even to pay for the sports I want to watch and how much they want from me.
 author: Tommy Twardzik
 pinned: true

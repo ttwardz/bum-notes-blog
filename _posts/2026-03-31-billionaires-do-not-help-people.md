@@ -2,6 +2,7 @@
 layout: post
 date: 2026-03-31 23:59
 title: Every Day, Billionaires Choose Not to Help People Who Need Help
+slug: billionaires-do-not-help-people
 description: Cowards and imbeciles, all of them.
 author: Tommy Twardzik
 tags: [money]

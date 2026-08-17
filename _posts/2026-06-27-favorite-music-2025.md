@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Favorite Music 2025 Edition"
+slug: favorite-music-2025
 author: Tommy Twardzik
 description: The best sounds I heard in 2025, ranked.
 date: 2026-06-27 15:30:34 -0400

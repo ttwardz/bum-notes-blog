@@ -1,5 +1,9 @@
 ---
 title: On Writing Simply
+slug: on-writing-simply
+permalink: /on-writing-simply/
+redirect_from:
+  - /2019/09/25/on-writing-simply.html
 author: Tommy Twardzik
 tags: [writing]
 date: 2019-09-25 12:00

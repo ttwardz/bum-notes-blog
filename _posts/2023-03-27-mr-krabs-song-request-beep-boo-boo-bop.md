@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mr. Krabs Was Requesting This Song on the Radio
+slug: mr-krabs-song-request-beep-boo-boo-bop
 description: Robot Krabs was on to something.
 author: Tommy Twardzik
 tags: [music]

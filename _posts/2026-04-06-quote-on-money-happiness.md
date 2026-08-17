@@ -2,6 +2,9 @@
 layout: post
 date: 2026-04-06 14:22
 title: A Quote About Money and Happiness
+slug: quote-on-money-happiness
+redirect_from:
+  - /2026/04/06/happy-millionaire-not-billionaire.html
 description: Smiles minus frowns. And never selling out.
 author: Tommy Twardzik
 tags: [money, happiness]

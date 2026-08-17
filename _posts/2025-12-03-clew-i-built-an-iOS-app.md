@@ -2,6 +2,10 @@
 layout: post
 date: 2025-12-03 19:10
 title: I Built an iOS App&#58; Introducing Clew
+slug: clew-i-built-an-iOS-app
+permalink: /clew-i-built-an-ios-app/
+redirect_from:
+  - /2025/12/03/clew-i-built-an-iOS-app.html
 description: I wanted a better way to write margin notes and save highlights from books, articles, songs, and more. So, I created Clew.
 author: Tommy Twardzik
 pinned: true

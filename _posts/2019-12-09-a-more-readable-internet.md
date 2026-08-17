@@ -1,5 +1,9 @@
 ---
 title: A More Readable Internet
+slug: a-more-readable-internet
+permalink: /a-more-readable-internet/
+redirect_from:
+  - /2019/12/09/a-more-readable-internet.html
 author: Tommy Twardzik
 tags: [programming, technology]
 date: 2019-12-09 12:00

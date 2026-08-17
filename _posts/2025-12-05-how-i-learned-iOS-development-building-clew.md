@@ -2,6 +2,10 @@
 layout: post
 date: 2025-12-05 12:00
 title: How I Learned iOS Software Development by Building an App
+slug: how-i-learned-iOS-development-building-clew
+permalink: /how-i-learned-ios-development-building-clew/
+redirect_from:
+  - /2025/12/05/how-i-learned-iOS-development-building-clew.html
 description: On learning to code, building an iOS app, and turning software development from an experiment into a practice I love.
 author: Tommy Twardzik
 pinned: false

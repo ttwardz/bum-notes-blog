@@ -1,5 +1,9 @@
 ---
 title: Remove Ugly Media Bookmarklet for Mac
+slug: remove-media-mac-bookmarklet
+permalink: /remove-media-mac-bookmarklet/
+redirect_from:
+  - /2020/11/12/remove-media-mac-bookmarklet.html
 author: Tommy Twardzik
 tags: [programming]
 date: 2020-11-12 12:00
@@ -87,6 +91,6 @@ Your bookmarklet is ready to go!
 
 [source-bookmarklet]: https://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/
 [encode-sc]: https://www.icloud.com/shortcuts/f3e148e6274147d59c355adf68445e7a
-[shortcuts-article]: /blog/remove-media-shortcut
+[shortcuts-article]: /remove-media-shortcut/
 [shortcut]: https://www.icloud.com/shortcuts/c68e71a5ccf74cf589859630904bd2b8
 [dmitrychernyshov]: https://unsplash.com/@oneor0

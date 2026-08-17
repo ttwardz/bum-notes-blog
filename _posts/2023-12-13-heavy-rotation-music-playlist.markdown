@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "On Heavy Rotation"
+slug: heavy-rotation-music-playlist
+redirect_from:
+  - /2025/03/10/heavy-rotation-music-playlist.html
 author: Tommy Twardzik
 description: A rotating playlist of the songs I'm listening to on repeat.
 date: 2023-12-13 12:30:34 -0400

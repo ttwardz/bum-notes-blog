@@ -5,7 +5,6 @@ title: Algo Music Is Good Sometimes
 description: Despite my algorithm being primarily unintelligible nonsense (in a positive way), some good music sneaks through from time to time.
 author: Tommy Twardzik
 tags: [music, internet]
-published: false
 ---
 
 # Algo Music Is Good Sometimes
