@@ -47,9 +47,14 @@ layout: default
             </h3>
           </div>
         {% else %}
-          <h3 class="post-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
+          <div class="archive-post-content">
+            <h3 class="post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            {% if post.description %}
+              <p class="archive-description">{{ post.description }}</p>
+            {% endif %}
+          </div>
         {% endif %}
         
         {% if post.tags %}

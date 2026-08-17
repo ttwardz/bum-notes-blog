@@ -866,11 +866,18 @@ th {
   font-size: 0.9rem;
 }
 
-.archive-item .post-title, 
+.archive-item .archive-post-content,
 .archive-item .archive-journal-content {
   flex: 1;
   min-width: 200px;
   margin-right: var(--space-s);
+}
+
+.archive-item .archive-description {
+  margin: 4px 0 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-text-light);
 }
 
 .archive-item .post-tags {
