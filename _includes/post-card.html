@@ -1,0 +1,36 @@
+{% assign card = include.post %}
+<article class="post-card">
+  {% if card.image or card.posters %}
+    <div class="post-image">
+      {% comment %} The title link below names the post; hide this duplicate link from screen readers and the tab order {% endcomment %}
+      <a href="{{ card.url | relative_url }}" aria-hidden="true" tabindex="-1">
+        {% if card.posters %}
+          {% include poster-strip.html posters=card.posters lazy=true decorative=true sizes="133px" %}
+        {% else %}
+          <img src="{{ card.image | relative_url }}" alt="" loading="lazy">
+        {% endif %}
+      </a>
+    </div>
+  {% endif %}
+  <div class="post-content">
+    <h2 class="post-title">
+      <a href="{{ card.url | relative_url }}">{{ card.title }}</a>
+    </h2>
+    <div class="post-meta">
+      <span class="post-date">{{ card.date | date: "%B %d, %Y" }}</span>
+      {% if card.author %}
+        <span class="post-author">by {{ card.author }}</span>
+      {% endif %}
+    </div>
+    {% if card.description %}
+      <p class="post-description">{{ card.description }}</p>
+    {% endif %}
+    {% if card.tags %}
+      <div class="post-tags">
+        {% for tag in card.tags %}
+          <a href="{{ site.baseurl }}/archive/#{{ tag | slugify }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</article>

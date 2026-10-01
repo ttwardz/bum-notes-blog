@@ -6,14 +6,19 @@ slug: recent-movies-september-2026
 image: /assets/images/recent-movies-sept-2026/recent-movies-sept-2026-poster-grid.jpg
 posters:
   - src: /assets/images/recent-movies-sept-2026/resident-evil-2026-poster.jpg
+    small: /assets/images/recent-movies-sept-2026/resident-evil-2026-poster-small.jpg
     alt: Resident Evil (2026) poster
   - src: /assets/images/recent-movies-sept-2026/primetime-2026-poster.jpg
+    small: /assets/images/recent-movies-sept-2026/primetime-2026-poster-small.jpg
     alt: Primetime (2026) poster
   - src: /assets/images/recent-movies-sept-2026/buddy-2026-poster.jpg
+    small: /assets/images/recent-movies-sept-2026/buddy-2026-poster-small.jpg
     alt: Buddy (2026) poster
   - src: /assets/images/recent-movies-sept-2026/teenage-sex-and-death-at-camp-miasma-2026-poster.jpg
+    small: /assets/images/recent-movies-sept-2026/teenage-sex-and-death-at-camp-miasma-2026-poster-small.jpg
     alt: Teenage Sex and Death at Camp Miasma (2026) poster
   - src: /assets/images/recent-movies-sept-2026/serpents-path-2024-poster.jpg
+    small: /assets/images/recent-movies-sept-2026/serpents-path-2024-poster-small.jpg
     alt: Serpent’s Path (2024) poster
 description: Buddy, Primetime, Resident Evil, Teenage Sex and Death at Camp Miasma, and Serpent’s Path
 author: Tommy Twardzik
@@ -77,5 +82,7 @@ Also now I finally get the line from the Barenaked Ladies’ “One Week”:
 - Other Mommy — Jessica Chastain looks terrifying. As my dad said, “Bad news for ball pits.”
 - The Social Reckoning — It’s not going to live up to *The Social Network*. I bet it’ll be a decent corporate espionage thriller with way too much to (try to) say, too loudly, about technology and power and social engineering and all the stuff you already know.
 - Digger — the more trailers I see, the less hope I have.
+
+🍿
 
 <small>Posters via [TMDB](https://www.themoviedb.org/){:target="_blank"}.</small>

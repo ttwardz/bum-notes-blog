@@ -1,5 +1,11 @@
+{% comment %}
+  Each poster is cropped to the strip's height, so `sizes` is that height × 2/3 (poster aspect),
+  not the tile's on-screen width. Optional `small:` is used where it's sharp enough (e.g. cards).
+{% endcomment %}
 <div class="poster-strip">
   {% for poster in include.posters %}
-    <img src="{{ poster.src | relative_url }}" alt="{{ poster.alt }}"{% if include.lazy %} loading="lazy"{% endif %}>
+    <img src="{{ poster.src | relative_url }}"
+      {% if poster.small %}srcset="{{ poster.small | relative_url }} 342w, {{ poster.src | relative_url }} 500w" sizes="{{ include.sizes | default: '267px' }}"{% endif %}
+      alt="{% unless include.decorative %}{{ poster.alt }}{% endunless %}"{% if include.lazy %} loading="lazy"{% endif %}>
   {% endfor %}
 </div>

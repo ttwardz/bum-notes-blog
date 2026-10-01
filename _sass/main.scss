@@ -331,10 +331,16 @@ ol li::marker {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+/* Zoom the card's single image or whole poster strip, never individual posters */
+.post-image > a > img,
+.post-image .poster-strip {
   transition: transform 0.3s ease;
 }
 
-.post-card:hover .post-image img {
+.post-card:hover .post-image > a > img,
+.post-card:hover .post-image .poster-strip {
   transform: scale(1.05);
 }
 
@@ -493,18 +499,6 @@ th {
   min-width: 0;
   height: 100%;
   object-fit: cover;
-}
-
-.post-card:hover .post-image .poster-strip img {
-  transform: none;
-}
-
-.post-image .poster-strip {
-  transition: transform 0.3s ease;
-}
-
-.post-card:hover .post-image .poster-strip {
-  transform: scale(1.05);
 }
 
 .post-header {
