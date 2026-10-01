@@ -2,7 +2,19 @@
 layout: post
 date: 2026-10-01 15:35
 title: Recent Movies (September 2026)
-slug: ford-fathom-ev-truck
+slug: recent-movies-september-2026
+image: /assets/images/recent-movies-sept-2026/recent-movies-sept-2026-poster-grid.jpg
+posters:
+  - src: /assets/images/recent-movies-sept-2026/resident-evil-2026-poster.jpg
+    alt: Resident Evil (2026) poster
+  - src: /assets/images/recent-movies-sept-2026/primetime-2026-poster.jpg
+    alt: Primetime (2026) poster
+  - src: /assets/images/recent-movies-sept-2026/buddy-2026-poster.jpg
+    alt: Buddy (2026) poster
+  - src: /assets/images/recent-movies-sept-2026/teenage-sex-and-death-at-camp-miasma-2026-poster.jpg
+    alt: Teenage Sex and Death at Camp Miasma (2026) poster
+  - src: /assets/images/recent-movies-sept-2026/serpents-path-2024-poster.jpg
+    alt: Serpent’s Path (2024) poster
 description: Buddy, Primetime, Resident Evil, Teenage Sex and Death at Camp Miasma, and Serpent’s Path
 author: Tommy Twardzik
 tags: [film, entertainment]
@@ -46,7 +58,7 @@ A little on the nose with the name “Little Death.” Anyway, the title is very
 
 ### Serpent’s Path (2024)
 
-Weird, a bit slow but not boring, and pretty funny. Not sure I loved the climax, delivery-wise. Bothered me the way Christoph Waltz’s evil-Joker-maze did in *[Spectre](https://youtu.be/gk6FO2iiqCs?si=djQyLXlJu6NoGz6X){:target="_blank"}*.
+Weird, a bit slow but not boring, and pretty funny. Not sure I loved the climax, delivery-wise. Bothered me the way [Christoph Waltz’s evil-Joker-maze](https://youtu.be/gk6FO2iiqCs?si=djQyLXlJu6NoGz6X){:target="_blank"} did in *Spectre*.
 
 Why French? Why remake your own movie, Kiyoshi Kurosawa?
 
@@ -65,3 +77,5 @@ Also now I finally get the line from the Barenaked Ladies’ “One Week”:
 - Other Mommy — Jessica Chastain looks terrifying. As my dad said, “Bad news for ball pits.”
 - The Social Reckoning — It’s not going to live up to *The Social Network*. I bet it’ll be a decent corporate espionage thriller with way too much to (try to) say, too loudly, about technology and power and social engineering and all the stuff you already know.
 - Digger — the more trailers I see, the less hope I have.
+
+<small>Posters via [TMDB](https://www.themoviedb.org/){:target="_blank"}.</small>

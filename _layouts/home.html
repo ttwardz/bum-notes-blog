@@ -13,10 +13,14 @@ layout: default
         <div class="posts-container">
           {% for post in pinned_posts %}
             <article class="post-card">
-              {% if post.image %}
+              {% if post.image or post.posters %}
                 <div class="post-image">
                   <a href="{{ post.url | relative_url }}">
-                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                    {% if post.posters %}
+                      {% include poster-strip.html posters=post.posters lazy=true %}
+                    {% else %}
+                      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                    {% endif %}
                   </a>
                 </div>
               {% endif %}
@@ -53,10 +57,14 @@ layout: default
         {% assign posts = site.posts | where_exp: "post", "post.layout != 'journal'" %}
         {% for post in posts limit:8 %}
           <article class="post-card">
-            {% if post.image %}
+            {% if post.image or post.posters %}
               <div class="post-image">
                 <a href="{{ post.url | relative_url }}">
-                  <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                  {% if post.posters %}
+                    {% include poster-strip.html posters=post.posters lazy=true %}
+                  {% else %}
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                  {% endif %}
                 </a>
               </div>
             {% endif %}

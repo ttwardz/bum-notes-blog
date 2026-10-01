@@ -1,0 +1,5 @@
+<div class="poster-strip">
+  {% for poster in include.posters %}
+    <img src="{{ poster.src | relative_url }}" alt="{{ poster.alt }}"{% if include.lazy %} loading="lazy"{% endif %}>
+  {% endfor %}
+</div>

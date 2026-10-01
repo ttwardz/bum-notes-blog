@@ -1,3 +1,14 @@
+---
+layout: post
+date: 2026-10-01 15:35
+title: Live sports
+slug: live-sports
+description: n/a
+author: Tommy Twardzik
+tags: [sports]
+pinned: true
+---
+
 Live Sports Streaming Channels and Options for My Own Sanity
 #bumnotes
 
