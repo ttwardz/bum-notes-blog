@@ -20,7 +20,7 @@ layout: default
 
       <h1 class="section-title">Latest Posts</h1>
       
-      <div class="posts-container">
+      <div class="posts-container posts-list">
         {% assign posts = site.posts | where_exp: "post", "post.layout != 'journal'" %}
         {% for post in posts limit:8 %}
           {% include post-card.html post=post %}

@@ -691,6 +691,45 @@ th {
   margin-top: 0.25rem;
 }
 
+/* Latest Posts as a single-column list on wider screens: text always starts at the
+   same left edge, and an image (when a post has one) sits as a thumbnail on the right.
+   Below this width rows fall back to the regular stacked cards. */
+@media (min-width: 769px) {
+  .latest-posts .posts-list {
+    grid-template-columns: 1fr;
+    gap: var(--space-m);
+  }
+
+  .latest-posts .posts-list .post-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    padding-top: 0;
+  }
+
+  .latest-posts .posts-list .post-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .posts-list .post-content {
+    grid-column: 1;
+    grid-row: 1;
+    align-self: center;
+  }
+
+  .posts-list .post-image {
+    grid-column: 2;
+    grid-row: 1;
+    width: 200px;
+    height: auto;
+    min-height: 140px;
+  }
+
+  .posts-list .post-image > a {
+    display: block;
+    height: 100%;
+  }
+}
+
 .journal-card {
   border: 1px solid var(--color-border);
   border-radius: 8px;
