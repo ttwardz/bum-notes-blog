@@ -7,13 +7,18 @@ redirect_from:
 author: Tommy Twardzik
 tags: [programming, technology]
 date: 2019-12-09 12:00
+dateUpdated: 2026-10-15
 ---
 
 <!-- description: My goal: make my site readable to anyone curious enough to inspect its source code—like the old days. Things have not turned out to be as simple as I'd hoped. -->
 
+*Update October 15, 2026:*
+
+*I originally wrote this article about building [my personal website](https://tommytwardzik.com/), before Bum Notes became its own site. While I've built Bum Notes with the same intentions, I decided to focus on writing posts instead of HTML. This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"}, the Markdown-to-static-site generator. Jekyll is pretty configurable, and I've kept things as readable as I could, but some of the code a bit less poetic. My personal site remains written by hand.*
+
 # A More Readable Internet
 
-I built this website using words. I set a goal: make my site readable to the people who are curious enough to inspect its source code. I think I succeeded. But things have not turned out to be as simple as I'd hoped.
+I built this website[^this] using words. I set a goal: make my site readable to the people who are curious enough to inspect its source code. I think I succeeded. But things have not turned out to be as simple as I'd hoped.
 
 ![HTML source code screenshot.](/assets/images/html-source-code-screenshot.JPG)
 
@@ -80,3 +85,5 @@ Of course, CSS custom properties are not a solution to the problems faced by eno
 You _can_ build a modern website with simple, semantic code. It's a great way to be more transparent to users and make the jobs of future developers (and you) easier.
 
 It's up to web developers to write with care and discipline. Developers: be the poets of the web, efficient and strict with syntax. Be the woodworkers who proudly brand their initials on the well-built frame of an upholstered chair. Few will see them. But those who do pull back the fabric to reveal the wood beneath will appreciate your craftsmanship.
+
+[^this]: Per the update at the top, "this website" refers to my personal site, where this post was originally hosted.
