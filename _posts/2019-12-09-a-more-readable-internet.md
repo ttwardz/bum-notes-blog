@@ -74,7 +74,7 @@ But as far as I can tell, this is the simplest way of achieving the responsivene
 
 ## A Little Learning or a Lot of Nonsense
 
-CSS variables are not immediately readable for every person. But neither is HTML, in general. But upon closer inspection, you can get a general idea of what's happening with both. A custom property called `--color-text-default` is as semantically informative as an `<article>` or `<table>` tag.
+CSS variables are not immediately readable for every person. Neither is HTML, in general. But upon closer inspection, you can get a general idea of what's happening with both. A custom property called `--color-text-default` is as semantically informative as an `<article>` or `<table>` tag.
 
 Where a sheet of hex numbers reads like a coded message, a list of variables reads like a glossary of terms placed at the beginning of the text. It makes reading everything that follows easier.
 
@@ -84,6 +84,6 @@ Of course, CSS custom properties are not a solution to the problems faced by eno
 
 You _can_ build a modern website with simple, semantic code. It's a great way to be more transparent to users and make the jobs of future developers (and you) easier.
 
-It's up to web developers to write with care and discipline. Developers: be the poets of the web, efficient and strict with syntax. Be the woodworkers who proudly brand their initials on the well-built frame of an upholstered chair. Few will see them. But those who do pull back the fabric to reveal the wood beneath will appreciate your craftsmanship.
+It's up to web developers to write with care and discipline. Developers: be the poets of the web, efficient and strict with syntax. Be the woodworkers who proudly brand their initials on the well-built frame of an upholstered chair. Few will see them. But those who do pull back the fabric to reveal the wood beneath <!-- Hello, you adventurer! --> will appreciate your craftsmanship.
 
 [^this]: Per the update at the top, "this website" refers to my personal site, where this post was originally hosted.
